@@ -1,0 +1,1586 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Basic Medical Coding Training",
+            "slug": "basic-medical-coding",
+            "badge": null,
+            "category": "basics",
+            "students": 450,
+            "lessons": 12,
+            "rating": 5,
+            "image": "assets/images/course/course-thumb2_1.jpg",
+            "price": null,
+            "instructor": "Turn Worth Team",
+            "description": "Foundation course covering medical terminology, anatomy basics, and introduction to coding systems."
+        },
+        {
+            "id": 2,
+            "title": "Advanced Medical Coding Training",
+            "slug": "advanced-medical-coding",
+            "badge": null,
+            "category": "basics",
+            "students": 400,
+            "lessons": 16,
+            "rating": 5,
+            "image": "assets/images/course/course-thumb2_2.jpg",
+            "price": null,
+            "instructor": "Turn Worth Team",
+            "description": "In-depth training on complex coding scenarios, compliance, and advanced coding techniques."
+        },
+        {
+            "id": 3,
+            "title": "Certified Professional Coder (CPC) Training",
+            "slug": "cpc-training",
+            "badge": "Certification",
+            "category": "certification",
+            "students": 300,
+            "lessons": 12,
+            "rating": 5,
+            "image": "assets/images/course/course-thumb2_3.jpg",
+            "price": null,
+            "instructor": "Turn Worth Team",
+            "description": "Complete CPC certification preparation with exam-oriented practice and mock tests.",
+            "details": {
+                "overview": {
+                    "what_is": "CPC (Certified Professional Coder) is a globally recognized certification offered by AAPC (American Academy of Professional Coders). It validates a professional’s expertise in medical coding using ICD-10-CM, CPT, and HCPCS Level II code sets. CPC-certified professionals are in high demand in hospitals, medical billing companies, insurance firms, and healthcare MNCs.",
+                    "about": "A Certified Professional Coder is a trained healthcare professional responsible for translating medical diagnoses, procedures, and services into standardized medical codes. These codes are essential for insurance claims, reimbursements, compliance, and healthcare data accuracy. CPC certification proves your ability to code accurately and ethically according to US healthcare standards."
+                },
+                "roles_responsibilities": [
+                    "Assign accurate ICD-10-CM, CPT, and HCPCS Level II codes",
+                    "Review medical records and physician documentation",
+                    "Ensure compliance with coding guidelines and regulations",
+                    "Identify and correct coding errors",
+                    "Support insurance claims and reimbursement processes",
+                    "Work with physicians and healthcare staff for documentation clarity",
+                    "Reduce claim denials and improve revenue cycle efficiency"
+                ],
+                "training_info": {
+                    "description": "Our CPC training program at Turn Worth Academy is designed for beginners and working professionals who want to build a successful career in medical coding. The course includes in-depth theoretical knowledge, real-time coding practice, exam-oriented training, and placement support.",
+                    "mode": "Online / Offline",
+                    "language": "English & Tamil",
+                    "duration": "3 to 4 Months",
+                    "eligibility": "Any Life Science / Paramedical / Pharmacy / Nursing / Graduates",
+                    "prerequisite": "No prior coding experience required"
+                },
+                "exam_overview": {
+                    "conducted_by": "AAPC (USA)",
+                    "exam_type": "Open Book",
+                    "duration": "4 Hours",
+                    "total_questions": "100 MCQs",
+                    "passing_score": "70%",
+                    "manuals": "ICD-10-CM, CPT, HCPCS Level II",
+                    "format": "Scenario-based coding questions"
+                },
+                "academy_benefits": [
+                    "Experienced CPC-certified trainers",
+                    "Beginner-friendly teaching approach",
+                    "Real-time medical record coding practice",
+                    "Exam-focused training with mock tests",
+                    "Updated syllabus as per AAPC guidelines",
+                    "Flexible class timings",
+                    "Dedicated placement assistance",
+                    "One-to-one doubt clarification sessions"
+                ],
+                "course_features": [
+                    "AAPC exam-oriented curriculum",
+                    "Practical coding worksheets",
+                    "Mock exams & evaluation",
+                    "Resume & interview preparation",
+                    "Certification guidance",
+                    "Placement support with healthcare companies",
+                    "Lifetime learning support"
+                ],
+                "curriculum": [
+                    "Introduction to Medical Coding & Healthcare Industry",
+                    "Medical Terminology",
+                    "Human Anatomy & Physiology",
+                    "ICD-10-CM Coding Guidelines",
+                    "CPT Coding – Surgery, E&M, Anesthesia, Radiology, Pathology",
+                    "HCPCS Level II Coding",
+                    "Modifiers & Bundling Rules",
+                    "Medical Documentation & Compliance",
+                    "Real-time Case Studies & Practice",
+                    "CPC Exam Preparation & Mock Tests"
+                ],
+                "faqs": [
+                    {
+                        "question": "Who can enroll in the CPC course?",
+                        "answer": "Anyone from life science, paramedical, pharmacy, nursing, or general graduation background can enroll."
+                    },
+                    {
+                        "question": "Is CPC certification mandatory to get a job?",
+                        "answer": "While not mandatory, CPC certification significantly increases job opportunities and salary potential."
+                    },
+                    {
+                        "question": "Do I need prior medical coding knowledge?",
+                        "answer": "No, the course is designed for beginners."
+                    },
+                    {
+                        "question": "Is the CPC exam difficult?",
+                        "answer": "With proper training and practice, the CPC exam is manageable and passable."
+                    },
+                    {
+                        "question": "Does Turn Worth Academy provide placement assistance?",
+                        "answer": "Yes, we provide placement support and interview preparation."
+                    },
+                    {
+                        "question": "Is the CPC exam open book?",
+                        "answer": "Yes, AAPC CPC exam is an open-book exam."
+                    },
+                    {
+                        "question": "What is the salary of a CPC fresher?",
+                        "answer": "CPC freshers can earn competitive salaries depending on skills and company."
+                    },
+                    {
+                        "question": "Are classes available in Tamil?",
+                        "answer": "Yes, we offer training in both English and Tamil."
+                    },
+                    {
+                        "question": "Can I attend classes while working or studying?",
+                        "answer": "Yes, flexible batch timings are available."
+                    },
+                    {
+                        "question": "How long is the CPC certification valid?",
+                        "answer": "CPC certification is valid for one year and requires annual renewal with CEUs."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "title": "Certified Risk Adjustment Coder (CRC) Training",
+            "slug": "crc-training",
+            "badge": "Certification",
+            "category": "certification",
+            "students": 90,
+            "lessons": 10,
+            "rating": 5,
+            "image": "assets/images/course/course-thumb2_4.jpg",
+            "price": null,
+            "instructor": "Turn Worth Team",
+            "description": "Specialized training for risk adjustment coding in healthcare organizations.",
+            "details": {
+                "overview": {
+                    "what_is": "CRC (Certified Risk Adjustment Coder) is an advanced certification provided by AAPC. It validates a coder's expertise in Risk Adjustment and Hierarchical Condition Category (HCC) coding. Risk adjustment is a methodology used by CMS (Centers for Medicare & Medicaid Services) and commercial payers to estimate future healthcare costs based on a patient's current health status.",
+                    "about": "A Certified Risk Adjustment Coder is responsible for reviewing medical records to accurately capture and code chronic conditions and comorbidities using ICD-10-CM. Ensuring all diagnoses are coded accurately to the highest level of specificity directly impacts a healthcare organization's RAF (Risk Adjustment Factor) score and subsequent funding."
+                },
+                "roles_responsibilities": [
+                    "Review patient charts for accurate ICD-10-CM diagnosis coding",
+                    "Identify and abstract chronic and acute medical conditions",
+                    "Ensure clinical documentation supports the assigned codes with the MEAT criteria (Monitor, Evaluate, Assess, Treat)",
+                    "Assign accurate HCC (Hierarchical Condition Category) codes",
+                    "Perform retrospective, prospective, and concurrent chart reviews",
+                    "Educate providers on Clinical Documentation Improvement (CDI)",
+                    "Maintain compliance with CMS guidelines to prevent fraudulent billing"
+                ],
+                "training_info": {
+                    "description": "The CRC training program at Turn Worth Academy dives deep into ICD-10-CM guidelines with a heavy focus on chronic disease coding, the MEAT concept, and Medicare Advantage (Part C) risk adjustment models.",
+                    "mode": "Online / Offline",
+                    "language": "English & Tamil",
+                    "duration": "30 days",
+                    "eligibility": "Basic Medical Coding Knowledge / CPC Preferred",
+                    "prerequisite": "Essential for coders looking to transition into high-demand Risk Adjustment roles"
+                },
+                "exam_overview": {
+                    "conducted_by": "AAPC (USA)",
+                    "exam_type": "Open Book",
+                    "duration": "4 Hours",
+                    "total_questions": "100 MCQs",
+                    "passing_score": "70%",
+                    "manuals": "ICD-10-CM (Current year)",
+                    "format": "Diagnosis coding & Risk Adjustment models"
+                },
+                "academy_benefits": [
+                    "Focused training on HCC models and RAF scoring",
+                    "Extensive ICD-10-CM Chapter-specific training (Cardiology, Endocrinology, Pulmonology, etc.)",
+                    "Practical application of the MEAT criteria",
+                    "Real-time chart review and auditing practice",
+                    "Comprehensive CRC exam preparation and mock tests",
+                    "Resume building tailored for Risk Adjustment roles",
+                    "Flexible learning schedules",
+                    "Dedicated placement assistance"
+                ],
+                "course_features": [
+                    "Complete Risk Adjustment Models overview (CMS-HCC, HHS-HCC, CDPS)",
+                    "Deep-dive into Chronic Illness coding guidelines",
+                    "Medical chart auditing for documentation gaps",
+                    "Predictive modeling and impact on reimbursement",
+                    "Performance-tracking mock assessments",
+                    "Specialized interview preparation for CRC roles",
+                    "Targeted placement support",
+                    "Continuous learning forum"
+                ],
+                "curriculum": [
+                    "Introduction to Risk Adjustment & HCC Models",
+                    "Medicare Advantage (Part C) and Risk Adjustment Factor (RAF)",
+                    "ICD-10-CM Guidelines specific to Risk Adjustment",
+                    "The MEAT/TAMPER Documentation Concepts",
+                    "Coding for Diabetes and Endocrine Disorders",
+                    "Coding for Neoplasms and Hematologic Disorders",
+                    "Coding for Cardiovascular and Respiratory Conditions",
+                    "Coding for Neurological and Psychiatric Conditions",
+                    "Retrospective vs. Prospective Auditing",
+                    "CRC Exam Preparation & Chart Auditing Practice"
+                ],
+                "faqs": [
+                    {
+                        "question": "1. Who can enroll in the CRC course?",
+                        "answer": "Individuals with basic medical coding knowledge or CPC certification can enroll."
+                    },
+                    {
+                        "question": "2. Is CRC suitable for freshers?",
+                        "answer": "Freshers can join, but prior coding knowledge is recommended."
+                    },
+                    {
+                        "question": "3. What is HCC in risk adjustment?",
+                        "answer": "HCC (Hierarchical Condition Category) is a risk model used by CMS to predict healthcare costs."
+                    },
+                    {
+                        "question": "4. Is the CRC exam open book?",
+                        "answer": "Yes, the AAPC CRC exam is an open-book exam."
+                    },
+                    {
+                        "question": "5. Does Turn Worth Academy provide placement support?",
+                        "answer": "Yes, placement assistance is provided for eligible candidates."
+                    },
+                    {
+                        "question": "6. What career roles can I get after CRC?",
+                        "answer": "Risk Adjustment Coder, HCC Auditor, Quality Analyst, Medical Coding Analyst."
+                    },
+                    {
+                        "question": "7. Are classes available in Tamil?",
+                        "answer": "Yes, bilingual training is available."
+                    },
+                    {
+                        "question": "8. Can I attend CRC training while working?",
+                        "answer": "Yes, flexible batch timings are offered."
+                    },
+                    {
+                        "question": "9. Is CRC a high-paying specialization?",
+                        "answer": "Yes, CRC-certified professionals often earn higher salaries than general coders."
+                    },
+                    {
+                        "question": "10. How long is CRC certification valid?",
+                        "answer": "CRC certification is valid for one year and requires annual CEU renewal."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "title": "Certified Coding Specialist (CCS) Training",
+            "slug": "ccs-training",
+            "badge": "Certification",
+            "category": "certification",
+            "students": 140,
+            "lessons": 10,
+            "rating": 5,
+            "image": "assets/images/course/course-thumb2_4.jpg",
+            "price": null,
+            "instructor": "Turn Worth Team",
+            "description": "Hospital-based coding certification preparation with inpatient coding focus.",
+            "details": {
+                "overview": {
+                    "what_is": "CCS (Certified Coding Specialist) is a credential offered by AHIMA (American Health Information Management Association). It is the gold standard for hospital-based coding. CCS professionals are experts in reviewing patient records and assigning numeric codes for diagnoses and procedures. They are proficient in the ICD-10-CM, ICD-10-PCS, and CPT coding systems.",
+                    "about": "A Certified Coding Specialist primarily works in inpatient hospital settings. They review complex medical records to determine the correct diagnosis (ICD-10-CM) and inpatient procedure codes (ICD-10-PCS). They also apply MS-DRG (Medicare Severity Diagnosis Related Groups) classifications for hospital reimbursement."
+                },
+                "roles_responsibilities": [
+                    "Assign ICD-10-CM diagnosis codes and ICD-10-PCS procedure codes",
+                    "Code complex inpatient hospital records and surgeries",
+                    "Ensure accurate MS-DRG and APR-DRG assignment for reimbursement",
+                    "Review medical documentation for completeness and clinical accuracy",
+                    "Apply CPT and HCPCS codes for hospital outpatient services",
+                    "Maintain compliance with AHIMA standards and CMS regulations",
+                    "Query physicians for clarification on missing or ambiguous documentation"
+                ],
+                "training_info": {
+                    "description": "The CCS training program at Turn Worth Academy focuses intensively on inpatient hospital coding and DRG methodologies. You will learn the intricacies of ICD-10-PCS (Procedure Coding System) which is unique to the inpatient setting.",
+                    "mode": "Online / Offline",
+                    "language": "English & Tamil",
+                    "duration": "45 days",
+                    "eligibility": "CPC / COC Certified or Hospital Coding Experience",
+                    "prerequisite": "Highly recommended for professionals looking to transition to inpatient coding"
+                },
+                "exam_overview": {
+                    "conducted_by": "AHIMA (USA)",
+                    "exam_type": "Computer-Based",
+                    "duration": "4 Hours",
+                    "total_questions": "97 MCQs & 8 Medical Scenarios",
+                    "passing_score": "Minimum 300 scaled score",
+                    "manuals": "ICD-10-CM, ICD-10-PCS, CPT (Current editions)",
+                    "format": "Inpatient and outpatient coding scenarios & regulatory knowledge"
+                },
+                "academy_benefits": [
+                    "Specialized training on ICD-10-PCS procedure building",
+                    "Deep dive into MS-DRG calculation and optimization",
+                    "Real-time inpatient chart coding practice",
+                    "Comprehensive training on AHIMA exam format and scenarios",
+                    "Expert faculty with AHIMA approved credentials",
+                    "Resume preparation for senior inpatient coder roles",
+                    "Dedicated placement support in top-tier hospitals and MNCs",
+                    "Accessible mock tests replicating the CCS exam environment"
+                ],
+                "course_features": [
+                    "ICD-10-PCS and Inpatient guidelines mastery",
+                    "Outpatient hospital coding (CPT/APC) review",
+                    "DRG methodology and reimbursement training",
+                    "Mock exams with detailed performance evaluation",
+                    "Scenario-based coding practice",
+                    "Specialized interview preparation",
+                    "Targeted placement assistance",
+                    "Lifetime subject support"
+                ],
+                "curriculum": [
+                    "Intro to the Health Information Management & CCS basics",
+                    "Advanced ICD-10-CM Diagnosis Coding for Inpatient",
+                    "Introduction to ICD-10-PCS (Inpatient Procedure Coding)",
+                    "Building ICD-10-PCS Codes (Medical & Surgical Section)",
+                    "Inpatient Reimbursement Methodologies (MS-DRG & APR-DRG)",
+                    "Hospital Outpatient Coding (CPT, HCPCS, APC)",
+                    "Regulatory Compliance and Data Quality",
+                    "Advanced Anatomy & Pathophysiology for Inpatient Coding",
+                    "Real-time Inpatient Chart Coding and Physician Queries",
+                    "CCS Exam Preparation & Medical Scenarios Practice"
+                ],
+                "faqs": [
+                    {
+                        "question": "1. Who can enroll in the CCS course?",
+                        "answer": "Individuals with prior medical coding knowledge (CPC or equivalent) can enroll."
+                    },
+                    {
+                        "question": "2. Is CCS suitable for freshers?",
+                        "answer": "CCS is recommended for experienced coders seeking advanced certification."
+                    },
+                    {
+                        "question": "3. What is the difference between CPC and CCS?",
+                        "answer": "CPC focuses mainly on physician/outpatient coding, while CCS covers advanced inpatient and hospital coding."
+                    },
+                    {
+                        "question": "4. Is the CCS exam open book?",
+                        "answer": "No, the CCS exam is not fully open book like CPC; it requires strong conceptual knowledge."
+                    },
+                    {
+                        "question": "5. Does Turn Worth Academy provide placement assistance?",
+                        "answer": "Yes, placement support is provided for eligible candidates."
+                    },
+                    {
+                        "question": "6. What job roles are available after CCS?",
+                        "answer": "Senior Medical Coder, Inpatient Coder, Coding Auditor, Quality Analyst."
+                    },
+                    {
+                        "question": "7. Are classes available in Tamil?",
+                        "answer": "Yes, bilingual training is available."
+                    },
+                    {
+                        "question": "8. Can I attend CCS training while working?",
+                        "answer": "Yes, flexible batch options are provided."
+                    },
+                    {
+                        "question": "9. Is CCS a high-paying certification?",
+                        "answer": "Yes, CCS-certified professionals often receive higher salary packages."
+                    },
+                    {
+                        "question": "10. How long is CCS certification valid?",
+                        "answer": "CCS certification requires renewal as per AHIMA continuing education requirements."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "title": "Certified Outpatient Coder (COC) Training",
+            "slug": "coc-training",
+            "badge": "Certification",
+            "category": "certification",
+            "students": 40,
+            "lessons": 10,
+            "rating": 5,
+            "image": "assets/images/course/course-thumb2_1.jpg",
+            "price": null,
+            "instructor": "Turn Worth Team",
+            "description": "Outpatient facility coding certification with ASC and hospital outpatient focus.",
+            "details": {
+                "overview": {
+                    "what_is": "COC (Certified Outpatient Coder) is a professional medical coding certification offered by AAPC. It focuses on outpatient hospital and ambulatory surgical center coding using ICD-10-CM, CPT, and HCPCS Level II code sets. COC certification validates expertise in facility-based outpatient coding and reimbursement methodologies.",
+                    "about": "A Certified Outpatient Coder specializes in coding outpatient hospital services such as emergency department visits, same-day surgeries, radiology, laboratory services, and clinic procedures. COC professionals ensure accurate coding for facility claims and proper reimbursement according to payer guidelines."
+                },
+                "roles_responsibilities": [
+                    "Assign ICD-10-CM diagnosis codes accurately",
+                    "Apply CPT and HCPCS Level II codes for outpatient services",
+                    "Code emergency department and same-day surgery cases",
+                    "Review outpatient medical records for completeness",
+                    "Ensure compliance with outpatient coding regulations",
+                    "Apply APC (Ambulatory Payment Classification) guidelines",
+                    "Reduce claim denials and improve revenue cycle efficiency"
+                ],
+                "training_info": {
+                    "description": "The COC training program at Turn Worth Academy is designed for individuals who want to specialize in outpatient hospital coding. The course includes detailed theoretical knowledge, real-time outpatient case studies, and exam-focused preparation.",
+                    "mode": "Online / Offline",
+                    "language": "English & Tamil",
+                    "duration": "30-45 days",
+                    "eligibility": "Medical Coding Basics / CPC Preferred",
+                    "prerequisite": "Suitable for coders aiming for hospital outpatient roles"
+                },
+                "exam_overview": {
+                    "conducted_by": "AAPC (USA)",
+                    "exam_type": "Open Book",
+                    "duration": "4 Hours",
+                    "total_questions": "100 MCQs",
+                    "passing_score": "70%",
+                    "manuals": "ICD-10-CM, CPT, HCPCS Level II",
+                    "format": "Outpatient facility coding & reimbursement"
+                },
+                "academy_benefits": [
+                    "Trainers with real-time outpatient coding experience",
+                    "Practical APC and facility-based coding training",
+                    "Real-time outpatient hospital case discussions",
+                    "Exam-oriented mock tests",
+                    "Updated curriculum as per AAPC standards",
+                    "Flexible batch timings",
+                    "Dedicated placement assistance",
+                    "One-to-one doubt clarification support"
+                ],
+                "course_features": [
+                    "Outpatient hospital-focused curriculum",
+                    "Emergency department & surgery coding practice",
+                    "APC and reimbursement training",
+                    "Mock exams & performance evaluation",
+                    "Certification guidance",
+                    "Resume & interview preparation",
+                    "Placement support with hospitals & healthcare MNCs",
+                    "Lifetime academic support"
+                ],
+                "curriculum": [
+                    "Introduction to Outpatient Medical Coding",
+                    "Review of Medical Terminology & Anatomy",
+                    "ICD-10-CM Diagnosis Coding",
+                    "CPT Coding for Outpatient Services",
+                    "HCPCS Level II Coding",
+                    "APC (Ambulatory Payment Classification) System",
+                    "Emergency Department Coding",
+                    "Same-Day Surgery & Observation Coding",
+                    "Outpatient Compliance & Documentation Guidelines",
+                    "COC Exam Preparation & Mock Tests"
+                ],
+                "faqs": [
+                    {
+                        "question": "1. Who can enroll in the COC course?",
+                        "answer": "Individuals with basic medical coding knowledge or CPC certification can enroll."
+                    },
+                    {
+                        "question": "2. Is COC suitable for freshers?",
+                        "answer": "Freshers with strong basics can enroll, but prior coding knowledge is recommended."
+                    },
+                    {
+                        "question": "3. What is the difference between CPC and COC?",
+                        "answer": "CPC focuses mainly on physician coding, while COC focuses on outpatient hospital facility coding."
+                    },
+                    {
+                        "question": "4. Is the COC exam open book?",
+                        "answer": "Yes, the AAPC COC exam is an open-book exam."
+                    },
+                    {
+                        "question": "5. Does Turn Worth Academy provide placement support?",
+                        "answer": "Yes, placement assistance is provided for eligible candidates."
+                    },
+                    {
+                        "question": "6. What job roles are available after COC?",
+                        "answer": "Outpatient Coder, Facility Coder, ED Coder, Surgery Coder."
+                    },
+                    {
+                        "question": "7. Are classes available in Tamil?",
+                        "answer": "Yes, bilingual training is available."
+                    },
+                    {
+                        "question": "8. Can I attend COC training while working?",
+                        "answer": "Yes, flexible batch options are provided."
+                    },
+                    {
+                        "question": "9. Is COC a good specialization for career growth?",
+                        "answer": "Yes, outpatient hospital coding is a high-demand specialization."
+                    },
+                    {
+                        "question": "10. How long is COC certification valid?",
+                        "answer": "COC certification requires annual renewal with CEUs as per AAPC guidelines."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "title": "Certified Inpatient Coder (CIC) Training",
+            "slug": "cic-training",
+            "badge": "Certification",
+            "category": "certification",
+            "students": 150,
+            "lessons": 10,
+            "rating": 5,
+            "image": "assets/images/course/course-thumb2_2.jpg",
+            "price": null,
+            "instructor": "Turn Worth Team",
+            "description": "Inpatient coding certification with DRG assignment and hospital coding expertise.",
+            "details": {
+                "overview": {
+                    "what_is": "CIC (Certified Inpatient Coder) is a prestigious medical coding certification offered by AAPC. It validates a coder’s expertise in inpatient hospital coding using ICD-10-CM, ICD-10-PCS, MS-DRG systems, and official inpatient coding guidelines. CIC-certified professionals are highly valued in hospitals, healthcare organizations, and large medical coding companies.",
+                    "about": "A Certified Inpatient Coder specializes in coding complex inpatient hospital cases. CIC professionals work with detailed medical records including discharge summaries, operative reports, and inpatient charts to ensure accurate coding, compliance, and proper reimbursement. This certification demonstrates advanced-level knowledge in inpatient coding standards."
+                },
+                "roles_responsibilities": [
+                    "Assign accurate ICD-10-CM and ICD-10-PCS codes for inpatient cases",
+                    "Analyze discharge summaries and operative reports",
+                    "Apply MS-DRG guidelines for reimbursement accuracy",
+                    "Ensure compliance with inpatient coding regulations",
+                    "Audit inpatient medical records for coding accuracy",
+                    "Reduce claim denials and ensure revenue integrity",
+                    "Coordinate with physicians and hospital staff for documentation clarification"
+                ],
+                "training_info": {
+                    "description": "The CIC training program at Turn Worth Academy is designed for individuals who want to advance their medical coding career into inpatient hospital coding. The course focuses on real-time inpatient case studies, DRG logic, and exam-oriented preparation.",
+                    "mode": "Online / Offline",
+                    "language": "English & Tamil",
+                    "duration": "45-60 days",
+                    "eligibility": "CPC Certified / Medical Coding Knowledge Preferred",
+                    "prerequisite": "Suitable for experienced coders and career growth seekers"
+                },
+                "exam_overview": {
+                    "conducted_by": "AAPC (USA)",
+                    "exam_type": "Open Book",
+                    "duration": "4 Hours",
+                    "total_questions": "60 MCQs",
+                    "passing_score": "70%",
+                    "manuals": "ICD-10-CM, ICD-10-PCS",
+                    "format": "Inpatient scenarios & DRG-based questions"
+                },
+                "academy_benefits": [
+                    "Trainers with strong inpatient hospital coding experience",
+                    "Advanced-level teaching methodology",
+                    "Real-time inpatient case discussions",
+                    "DRG-focused practical training",
+                    "Exam-oriented mock tests",
+                    "Updated syllabus as per AAPC guidelines",
+                    "Flexible batch timings",
+                    "Placement assistance for experienced roles",
+                    "Lifetime academic support"
+                ],
+                "course_features": [
+                    "Advanced inpatient coding curriculum",
+                    "DRG & reimbursement-focused training",
+                    "Practical inpatient worksheets",
+                    "Mock exams & evaluations",
+                    "Certification guidance",
+                    "Resume enhancement for inpatient roles",
+                    "Placement support with hospitals & healthcare MNCs"
+                ],
+                "curriculum": [
+                    "Overview of Inpatient Medical Coding",
+                    "Advanced Medical Terminology",
+                    "Inpatient Anatomy & Physiology",
+                    "ICD-10-CM Inpatient Guidelines",
+                    "ICD-10-PCS Coding Concepts",
+                    "MS-DRG System & Case Mix Index",
+                    "Inpatient Documentation & Compliance",
+                    "Complex Case Studies & Audits",
+                    "DRG Assignment & Reimbursement Logic",
+                    "CIC Exam Preparation & Mock Tests"
+                ],
+                "faqs": [
+                    {
+                        "question": "Who can enroll in the CIC course?",
+                        "answer": "CPC-certified professionals or those with prior medical coding knowledge can enroll."
+                    },
+                    {
+                        "question": "Is CIC suitable for freshers?",
+                        "answer": "CIC is recommended for coders with basic coding knowledge or CPC certification."
+                    },
+                    {
+                        "question": "What is the career scope after CIC?",
+                        "answer": "CIC opens opportunities in inpatient hospitals, audits, and senior coding roles."
+                    },
+                    {
+                        "question": "Is the CIC exam open book?",
+                        "answer": "Yes, the AAPC CIC exam is an open-book exam."
+                    },
+                    {
+                        "question": "Does Turn Worth Academy provide placement support?",
+                        "answer": "Yes, placement assistance is provided based on performance and eligibility."
+                    },
+                    {
+                        "question": "What is the salary range for CIC coders?",
+                        "answer": "CIC coders earn higher salaries compared to outpatient coders."
+                    },
+                    {
+                        "question": "Are classes available in Tamil?",
+                        "answer": "Yes, we offer bilingual training in English and Tamil."
+                    },
+                    {
+                        "question": "Can I do CIC along with my job?",
+                        "answer": "Yes, flexible batch options are available."
+                    },
+                    {
+                        "question": "How difficult is the CIC exam?",
+                        "answer": "It is advanced-level, but structured training makes it achievable."
+                    },
+                    {
+                        "question": "How long is CIC certification valid?",
+                        "answer": "CIC certification is valid for one year and requires CEU-based renewal."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "title": "Certified Professional Medical Auditor (CPMA) Training",
+            "slug": "cpma-training",
+            "badge": "Certification",
+            "category": "certification",
+            "students": 150,
+            "lessons": 10,
+            "rating": 5,
+            "image": "assets/images/course/course-thumb2_3.jpg",
+            "price": null,
+            "instructor": "Turn Worth Team",
+            "description": "Medical auditing certification for compliance and revenue cycle management.",
+            "details": {
+                "overview": {
+                    "what_is": "The CPMA (Certified Professional Medical Auditor) certification by AAPC provides coders with the skills needed to verify the accuracy of clinical documentation and coding. Auditing is crucial to prevent healthcare fraud, abuse, and revenue leakage, ensuring providers follow strict CMS (Centers for Medicare & Medicaid Services) and AMA (American Medical Association) guidelines.",
+                    "about": "A Certified Medical Auditor reviews medical records, coding assignments, and billing practices to ensure complete compliance. Their role is to identify unbundling, upcoding, downcoding, and missing documentation. They also train healthcare providers on Clinical Documentation Improvement (CDI)."
+                },
+                "roles_responsibilities": [
+                    "Conduct prospective and retrospective chart audits",
+                    "Verify accuracy of ICD-10-CM, CPT, and HCPCS codes",
+                    "Ensure compliance with CMS, OIG, and HIPAA guidelines",
+                    "Identify instances of upcoding, downcoding, and unbundling",
+                    "Analyze Evaluation and Management (E/M) charting accuracy",
+                    "Identify revenue leakage and compliance risks",
+                    "Provide feedback and CDI training to physicians and coders"
+                ],
+                "training_info": {
+                    "description": "The CPMA training program at Turn Worth Academy is designed for experienced coders aiming to step into high-paying auditing and compliance roles. The curriculum heavily focuses on E/M auditing, surgical auditing, and regulatory requirements.",
+                    "mode": "Online / Offline",
+                    "language": "English & Tamil",
+                    "duration": "45 days",
+                    "eligibility": "Certified Coders (CPC, COC) / 2+ Years Coding Experience",
+                    "prerequisite": "Essential for coders looking to become Auditors, QA Analysts, or Compliance Officers"
+                },
+                "exam_overview": {
+                    "conducted_by": "AAPC (USA)",
+                    "exam_type": "Open Book",
+                    "duration": "4 Hours",
+                    "total_questions": "100 MCQs",
+                    "passing_score": "70%",
+                    "manuals": "CPT, ICD-10-CM, HCPCS Level II (Medical Auditing Guidelines)",
+                    "format": "Theory & Practical Audit Scenarios"
+                },
+                "academy_benefits": [
+                    "Training by AAPC-certified auditing experts",
+                    "Intensive focus on CMS guidelines and E/M leveling",
+                    "Real-time chart auditing practices (Surgical & E/M)",
+                    "Hands-on error identification methodology",
+                    "Exam preparation with CPMA mock tests",
+                    "Resume building for senior auditor & QA roles",
+                    "Flexible batch schedules",
+                    "Dedicated placement assistance for auditor roles"
+                ],
+                "course_features": [
+                    "Compliance and Regulatory Guidelines mastery",
+                    "Medical Record Auditing & Scope",
+                    "Category-specific auditing (E/M, Surgery, Radiology)",
+                    "Quality Assurance (QA) training",
+                    "Mock exams with performance tracking",
+                    "Specialty interview preparation",
+                    "Targeted placement support",
+                    "Customized training material"
+                ],
+                "curriculum": [
+                    "Introduction to Medical Auditing & Compliance",
+                    "OIG (Office of Inspector General) & CMS Regulations",
+                    "HIPAA & Healthcare Fraud and Abuse",
+                    "Medical Record Documentation Standards",
+                    "Coding and Reimbursement Concepts",
+                    "Evaluation and Management (E/M) Auditing",
+                    "Surgical and Procedural Auditing",
+                    "Radiology, Pathology, and Medicine Auditing",
+                    "Communicating Audit Results & Provider Education (CDI)",
+                    "CPMA Exam Preparation & Mock Audits"
+                ],
+                "faqs": [
+                    {
+                        "question": "1. Who can enroll in the CPMA course?",
+                        "answer": "CPMA is recommended for CPC-certified professionals or experienced coders."
+                    },
+                    {
+                        "question": "2. Is CPMA suitable for freshers?",
+                        "answer": "CPMA is best suited for professionals with prior coding experience."
+                    },
+                    {
+                        "question": "3. What career roles are available after CPMA?",
+                        "answer": "Medical Auditor, Compliance Analyst, Coding Quality Analyst, Audit Consultant."
+                    },
+                    {
+                        "question": "4. Is the CPMA exam open book?",
+                        "answer": "Yes, the CPMA exam is an open-book exam."
+                    },
+                    {
+                        "question": "5. Does Turn Worth Academy provide placement support?",
+                        "answer": "Yes, placement assistance is provided for eligible candidates."
+                    },
+                    {
+                        "question": "6. What is the salary scope for CPMA professionals?",
+                        "answer": "CPMA-certified professionals often earn higher salaries due to specialized auditing skills."
+                    },
+                    {
+                        "question": "7. Are classes available in Tamil?",
+                        "answer": "Yes, bilingual training is available."
+                    },
+                    {
+                        "question": "8. Can I attend CPMA training while working?",
+                        "answer": "Yes, flexible batch options are available."
+                    },
+                    {
+                        "question": "9. Is CPMA a good career growth option?",
+                        "answer": "Yes, CPMA helps coders transition into senior compliance and auditing roles."
+                    },
+                    {
+                        "question": "10. How long is CPMA certification valid?",
+                        "answer": "CPMA certification requires annual renewal with CEUs as per certification guidelines."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "title": "ED Training (Emergency Department Coding)",
+            "slug": "ed-training",
+            "badge": "Speciality",
+            "category": "speciality",
+            "students": 240,
+            "lessons": 7,
+            "rating": 5,
+            "image": "assets/images/course/course-thumb2_4.jpg",
+            "price": null,
+            "instructor": "Turn Worth Team",
+            "description": "Specialized emergency department coding with critical care and trauma scenarios.",
+            "details": {
+                "overview": {
+                    "what_is": "Emergency Department (ED) Medical Coding involves assigning correct E/M (Evaluation and Management) codes, CPT procedure codes, and ICD-10-CM diagnosis codes for patients receiving care in a hospital's emergency room. ED coding is unique because it deals with unscheduled, acute care cases ranging from minor injuries to life-threatening trauma.",
+                    "about": "An ED Coder must be highly skilled in deciphering fast-paced, complex ED physician documentation. They are responsible for assigning the correct ED E/M levels (99281-99285), coding bedside procedures (like suturing, intubation, CPR), and applying critical care codes when a patient's life is at risk. Accurate ED coding is vital for hospital revenue cycle management."
+                },
+                "roles_responsibilities": [
+                    "Assign correct ED E/M levels (99281-99285) based on MDM or specific hospital guidelines",
+                    "Identify and code bedside procedures (laceration repairs, fracture care, central lines)",
+                    "Code Critical Care services (99291, 99292) based on time and medical necessity",
+                    "Apply correct modifiers (e.g., 25, 59, 27) for multiple procedures and E/M on the same day",
+                    "Ensure diagnosis (ICD-10-CM) codes accurately reflect the acute nature of the visit",
+                    "Audit ED charts for missing documentation or unbundled services"
+                ],
+                "training_info": {
+                    "description": "The ED Coding training program at Turn Worth Academy strictly focuses on the fast-paced environment of emergency medicine. It covers E/M leveling specific to the ED, critical care time calculations, and common ED procedures.",
+                    "mode": "Online / Offline",
+                    "language": "English & Tamil",
+                    "duration": "15 days",
+                    "eligibility": "Basic Medical Coding Knowledge / Surgery Coding Awareness",
+                    "prerequisite": "Ideal for coders seeking challenging, high-volume facility or pro-fee roles"
+                },
+                "exam_overview": {
+                    "conducted_by": "AAPC (CEDC Exam Focus)",
+                    "exam_type": "Specialty Certification Oriented",
+                    "duration": "Internal Practical Assessments",
+                    "total_questions": "ED Encounter Coding",
+                    "passing_score": "70% in assessments",
+                    "manuals": "CPT, ICD-10-CM",
+                    "format": "Emergency case scenarios and E/M leveling"
+                },
+                "academy_benefits": [
+                    "Training by experienced Emergency Department coders",
+                    "Deep understanding of ED E/M vs. Clinic E/M",
+                    "Critical Care time calculation workshops",
+                    "Real-time ER trauma and medical case studies",
+                    "Clear breakdown of minor procedures vs. major surgeries in ED",
+                    "Interview prep for specialized ED coding roles",
+                    "Flexible learning schedule",
+                    "Placement assistance in leading healthcare MNCs"
+                ],
+                "course_features": [
+                    "Comprehensive ED E/M leveling (99281-99285)",
+                    "Critical Care (99291-99292) mastery",
+                    "Trauma and procedure coding practice",
+                    "Performance-tracking mock assessments",
+                    "Resume building for facility and pro-fee ED roles",
+                    "Targeted placement support",
+                    "Continuous learning forum"
+                ],
+                "curriculum": [
+                    "Introduction to Emergency Department Coding",
+                    "ED Evaluation & Management (E/M) Guidelines (99281-99285)",
+                    "Understanding Acuity and Medical Decision Making (MDM) in ED",
+                    "Critical Care Coding & Time Requirements (99291, 99292)",
+                    "Coding ED Procedures: Lacerations & Wound Repairs",
+                    "Coding ED Procedures: Fracture Care & Splinting",
+                    "Coding ED Procedures: Intubations, CPR & Central Lines",
+                    "Using Modifiers in the ED (25, 59, 27)",
+                    "ICD-10-CM Coding for Trauma, Poisoning, and Accidents",
+                    "Practical ED Chart Coding & Case Studies"
+                ],
+                "faqs": [
+                    {
+                        "question": "1. Who can enroll in ED coding training?",
+                        "answer": "Individuals with basic medical coding knowledge or CPC certification can enroll."
+                    },
+                    {
+                        "question": "2. Is ED coding suitable for freshers?",
+                        "answer": "Freshers with strong coding basics can enroll, but prior knowledge is recommended."
+                    },
+                    {
+                        "question": "3. What is E/M coding in ED?",
+                        "answer": "E/M (Evaluation & Management) coding determines the level of emergency visit based on documentation and complexity."
+                    },
+                    {
+                        "question": "4. Is ED coding a high-demand specialization?",
+                        "answer": "Yes, emergency department coding is in high demand due to complex documentation."
+                    },
+                    {
+                        "question": "5. Does Turn Worth Academy provide placement support?",
+                        "answer": "Yes, placement assistance is provided for eligible candidates."
+                    },
+                    {
+                        "question": "6. What job roles are available after ED coding training?",
+                        "answer": "ED Coder, Facility Coder, Trauma Coder, Emergency Services Coding Analyst."
+                    },
+                    {
+                        "question": "7. Are classes available in Tamil?",
+                        "answer": "Yes, bilingual training is available."
+                    },
+                    {
+                        "question": "8. Can I attend ED training while working?",
+                        "answer": "Yes, flexible batch options are available."
+                    },
+                    {
+                        "question": "9. Is ED coding difficult?",
+                        "answer": "It requires strong documentation analysis skills, but structured training makes it manageable."
+                    },
+                    {
+                        "question": "10. Does this course include practical case studies?",
+                        "answer": "Yes, real-time emergency case discussions and practice sessions are included."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "title": "E/M Training (Evaluation & Management)",
+            "slug": "em-training",
+            "badge": "Speciality",
+            "category": "speciality",
+            "students": 220,
+            "lessons": 7,
+            "rating": 5,
+            "image": "assets/images/course/course-thumb2_4.jpg",
+            "price": null,
+            "instructor": "Turn Worth Team",
+            "description": "E/M coding guidelines with 2021 updates and documentation requirements.",
+            "details": {
+                "overview": {
+                    "what_is": "Evaluation and Management (E/M) Coding focuses on assigning CPT codes for physician-patient encounters, consultations, and hospital visits. The codes (ranging from 99202 to 99499) reflect the complexity of the patient's condition and the medical decision-making (MDM) process required to treat them.",
+                    "about": "An E/M Coder analyzes provider documentation to determine the correct level of service for patient visits. Due to the significant guideline changes introduced in 2021 and 2023, E/M coders must be highly accurate in abstracting data based on Medical Decision Making (MDM) or Total Time spent, ensuring compliance with AMA and CMS guidelines."
+                },
+                "roles_responsibilities": [
+                    "Audit physician documentation for Outpatient, Inpatient, and Observation visits",
+                    "Assign appropriate E/M levels based on 2021/2023 AMA Guidelines",
+                    "Calculate Medical Decision Making (MDM) complexity",
+                    "Assign codes based on total time when appropriate",
+                    "Identify and assign modifiers (25, 24, 57) logically",
+                    "Provide feedback to physicians on clinical documentation improvement (CDI)",
+                    "Ensure maximum ethical reimbursement for provider services"
+                ],
+                "training_info": {
+                    "description": "The E/M Coding training program at Turn Worth Academy focuses intensively on the 99000 CPT series. It provides a crystal-clear understanding of the new MDM tables, time-based coding rules, and correct modifier usage for bundled services.",
+                    "mode": "Online / Offline",
+                    "language": "English & Tamil",
+                    "duration": "20 days",
+                    "eligibility": "Basic Medical Coding Knowledge / CPC Certified",
+                    "prerequisite": "Essential for coders looking to master physician coding"
+                },
+                "exam_overview": {
+                    "conducted_by": "AAPC (CEMC Exam Focus)",
+                    "exam_type": "Specialty Certification Oriented",
+                    "duration": "Internal Practical Assessments",
+                    "total_questions": "E/M Case Studies",
+                    "passing_score": "70% in assessments",
+                    "manuals": "CPT, ICD-10-CM",
+                    "format": "Chart auditing and E/M leveling scenarios"
+                },
+                "academy_benefits": [
+                    "Training by experienced E/M auditing specialists",
+                    "Detailed breakdown of 2021 & 2023 E/M guideline updates",
+                    "Practical MDM (Medical Decision Making) calculation workshops",
+                    "Real-time patient encounter chart practice",
+                    "In-depth modifier 25 & 57 training",
+                    "Interview prep for E/M specific roles",
+                    "Flexible batch schedules",
+                    "Placement support for specialty roles"
+                ],
+                "course_features": [
+                    "Complete 99000 CPT series coverage",
+                    "MDM vs. Time-based coding mastery",
+                    "Performance-tracking mock audits",
+                    "Resume building for E/M Coder & Auditor roles",
+                    "Specialty interview preparation",
+                    "Targeted placement assistance",
+                    "Lifetime guideline update support"
+                ],
+                "curriculum": [
+                    "Introduction to Evaluation & Management",
+                    "The 2021 and 2023 E/M Guideline Updates",
+                    "Understanding the MDM Table (Problems, Data, Risk)",
+                    "Outpatient & Office Visit E/M Coding (99202–99215)",
+                    "Inpatient & Observation Visit E/M Coding",
+                    "Emergency Department (ED) E/M Coding",
+                    "Consultations, Preventive Medicine, and Telehealth Concept",
+                    "Time-Based E/M Coding Rules",
+                    "E/M Modifiers Application (24, 25, 57)",
+                    "Practical E/M Chart Auditing Cases"
+                ],
+                "faqs": [
+                    {
+                        "question": "1. Who can enroll in E/M coding training?",
+                        "answer": "Individuals with basic medical coding knowledge or CPC certification can enroll."
+                    },
+                    {
+                        "question": "2. Is E/M coding important for CPC aspirants?",
+                        "answer": "Yes, E/M coding is a major portion of physician coding and CPC exams."
+                    },
+                    {
+                        "question": "3. Is E/M coding difficult?",
+                        "answer": "It requires strong documentation analysis skills, but structured training makes it easier to understand."
+                    },
+                    {
+                        "question": "4. Does this course cover updated E/M guidelines?",
+                        "answer": "Yes, the course covers the latest E/M coding updates and MDM changes."
+                    },
+                    {
+                        "question": "5. What job roles can I get after E/M specialization?",
+                        "answer": "Physician Coder, E/M Specialist, Coding Analyst, Documentation Reviewer."
+                    },
+                    {
+                        "question": "6. Does Turn Worth Academy provide placement assistance?",
+                        "answer": "Yes, placement support is provided for eligible candidates."
+                    },
+                    {
+                        "question": "7. Are classes available in Tamil?",
+                        "answer": "Yes, bilingual training is available."
+                    },
+                    {
+                        "question": "8. Can I attend E/M training while working?",
+                        "answer": "Yes, flexible batch timings are available."
+                    },
+                    {
+                        "question": "9. Does the course include practical case studies?",
+                        "answer": "Yes, real-time documentation-based case discussions are included."
+                    },
+                    {
+                        "question": "10. Is E/M specialization useful for auditing careers?",
+                        "answer": "Yes, strong E/M knowledge is essential for medical auditing and compliance roles."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "title": "Radiology Coding Training",
+            "slug": "radiology-coding",
+            "badge": "Speciality",
+            "category": "speciality",
+            "students": 200,
+            "lessons": 7,
+            "rating": 5,
+            "image": "assets/images/course/course-thumb2_1.jpg",
+            "price": null,
+            "instructor": "Turn Worth Team",
+            "description": "Radiology and imaging coding including CT, MRI, ultrasound, and interventional procedures.",
+            "details": {
+                "overview": {
+                    "what_is": "Radiology Medical Coding involves assigning specific CPT and HCPCS codes to radiological procedures such as X-rays, CT scans, MRIs, Ultrasounds, and Interventional Radiology. Coding for this specialty requires understanding the difference between professional and technical components.",
+                    "about": "A Radiology Coder reviews imaging reports dictated by radiologists. Their core responsibility is to translate these reports into accurate ICD-10-CM diagnosis codes (why the scan was done) and CPT procedure codes (what scan was done). Accuracy in this specialty ensures quick reimbursement for high-volume imaging services."
+                },
+                "roles_responsibilities": [
+                    "Code diagnostic radiology, ultrasound, CT, and MRI procedures",
+                    "Understand and apply modifier 26 (Professional Component) and TC (Technical Component)",
+                    "Code Interventional Radiology (IR) procedures including biopsies, drainages, and injections",
+                    "Assign accurate ICD-10-CM codes for medical necessity",
+                    "Code for contrast vs. without contrast imaging services",
+                    "Audit radiology reports for missing specific details (e.g., anatomical sites)",
+                    "Ensure compliance with NCCI (National Correct Coding Initiative) edits"
+                ],
+                "training_info": {
+                    "description": "The Radiology Coding training program at Turn Worth Academy simplifies the complexities of the 70000 CPT series. The course covers diagnostic imaging, nuclear medicine, and basic interventional radiology coding with real-time report analysis.",
+                    "mode": "Online / Offline",
+                    "language": "English & Tamil",
+                    "duration": "15-20 days",
+                    "eligibility": "Basic Medical Coding Knowledge / Anatomy & Physiology awareness",
+                    "prerequisite": "Ideal for coders seeking high-volume, report-based coding roles"
+                },
+                "exam_overview": {
+                    "conducted_by": "AAPC (RCC Exam Focus / CPC Support)",
+                    "exam_type": "Specialty Certification Oriented",
+                    "duration": "Internal Practical Assessments",
+                    "total_questions": "Radiology Report Coding",
+                    "passing_score": "70% in assessments",
+                    "manuals": "CPT, ICD-10-CM",
+                    "format": "Imaging case scenarios and modifier application"
+                },
+                "academy_benefits": [
+                    "Expert training by certified specialty coders",
+                    "Detailed anatomical breakdown for radiology",
+                    "Real-time radiology and imaging chart practice",
+                    "Clear distinction between diagnostic and interventional radiology",
+                    "Modifiers usage specific to radiology (26, TC, 50, RT, LT)",
+                    "Interview preparation for radiology-specific roles",
+                    "Flexible batch schedules",
+                    "Placement assistance"
+                ],
+                "course_features": [
+                    "Comprehensive 70000 CPT series breakdown",
+                    "Hands-on radiology report abstraction",
+                    "Medical necessity (ICD-10) training for imaging",
+                    "Performance-tracking mock assessments",
+                    "Resume building for specialty roles",
+                    "Targeted placement support",
+                    "Continuous learning forum"
+                ],
+                "curriculum": [
+                    "Introduction to Radiology Coding",
+                    "Anatomy & Terminology for Radiology",
+                    "Diagnostic Radiology (X-rays, Fluoroscopy)",
+                    "Understanding Ultrasound & Mammography",
+                    "CT, MRI, and MRA Coding Guidelines",
+                    "With Contrast vs. Without Contrast Rule",
+                    "Nuclear Medicine & PET Scans",
+                    "Introduction to Interventional Radiology (Biopsies & Injections)",
+                    "Modifier Application in Radiology (26, TC, 76, 77, anatomical modifiers)",
+                    "Real-time Radiology Report Coding & Case Studies"
+                ],
+                "faqs": [
+                    {
+                        "question": "1. Who can enroll in Radiology coding training?",
+                        "answer": "Individuals with basic medical coding knowledge or CPC certification can enroll."
+                    },
+                    {
+                        "question": "2. Is Radiology coding suitable for freshers?",
+                        "answer": "Freshers with strong coding basics can enroll, but prior knowledge is recommended."
+                    },
+                    {
+                        "question": "3. Is Radiology coding a high-demand specialization?",
+                        "answer": "Yes, imaging services generate high coding volume, making it a strong career option."
+                    },
+                    {
+                        "question": "4. Does this course cover interventional radiology?",
+                        "answer": "Yes, basic interventional radiology coding concepts are included."
+                    },
+                    {
+                        "question": "5. Does Turn Worth Academy provide placement support?",
+                        "answer": "Yes, placement assistance is provided for eligible candidates."
+                    },
+                    {
+                        "question": "6. What job roles are available after Radiology coding training?",
+                        "answer": "Radiology Coder, Diagnostic Imaging Coder, Facility Coder, Coding Analyst."
+                    },
+                    {
+                        "question": "7. Are classes available in Tamil?",
+                        "answer": "Yes, bilingual training is available."
+                    },
+                    {
+                        "question": "8. Can I attend Radiology training while working?",
+                        "answer": "Yes, flexible batch options are available."
+                    },
+                    {
+                        "question": "9. Does the course include practical case studies?",
+                        "answer": "Yes, real-time radiology report discussions are included."
+                    },
+                    {
+                        "question": "10. Is Radiology coding useful for hospital coding careers?",
+                        "answer": "Yes, radiology coding knowledge strengthens both outpatient and hospital coding profiles."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "title": "Surgery Coding Training",
+            "slug": "surgery-coding",
+            "badge": "Speciality",
+            "category": "speciality",
+            "students": 250,
+            "lessons": 8,
+            "rating": 5,
+            "image": "assets/images/course/course-thumb2_2.jpg",
+            "price": null,
+            "instructor": "Turn Worth Team",
+            "description": "Surgical coding across all body systems with modifier usage and bundling rules.",
+            "details": {
+                "overview": {
+                    "what_is": "Surgery Medical Coding involves assigning correct CPT codes for surgical procedures performed by physicians. This specialty is complex as it requires a deep understanding of human anatomy, surgical techniques, NCCI (National Correct Coding Initiative) edits, and global surgical packages.",
+                    "about": "A Surgery Coder is responsible for translating operative reports into billable CPT codes. They must determine the primary procedure, identify any additional or secondary procedures, and apply appropriate modifiers to ensure accurate compensation and compliance with payer guidelines."
+                },
+                "roles_responsibilities": [
+                    "Identify correct CPT codes for surgical procedures",
+                    "Apply surgical modifiers (Modifiers 22, 50, 51, 52, 53, 58, 59, 78, 79)",
+                    "Determine Global Surgical Package inclusions and exclusions",
+                    "Analyze comprehensive Operative Reports",
+                    "Check NCCI edits to prevent unbundling",
+                    "Code across various organ systems (Integumentary, Musculoskeletal, Cardiovascular, etc.)",
+                    "Coordinate with surgeons for documentation specificity"
+                ],
+                "training_info": {
+                    "description": "The Surgery Coding training program at Turn Worth Academy provides deep insights into the 10,000 to 69,999 CPT series. We focus on complex systemic surgeries, multiple procedure rules, and correct modifier usage.",
+                    "mode": "Online / Offline",
+                    "language": "English & Tamil",
+                    "duration": "30 days",
+                    "eligibility": "Basic Medical Coding Knowledge / Anatomy & Physiology awareness",
+                    "prerequisite": "Ideal for coders looking to specialize in procedural coding"
+                },
+                "exam_overview": {
+                    "conducted_by": "AAPC (CASCC Exam Focus)",
+                    "exam_type": "Specialty Certification Oriented",
+                    "duration": "Internal Practical Assessments",
+                    "total_questions": "Operative Report Coding",
+                    "passing_score": "70% in assessments",
+                    "manuals": "CPT, ICD-10-CM",
+                    "format": "Surgical case scenarios and modifier application"
+                },
+                "academy_benefits": [
+                    "Led by certified surgical coding experts",
+                    "In-depth breakdown of the CPT surgical section",
+                    "Operative report reading and abstraction techniques",
+                    "Comprehensive modifier application training",
+                    "NCCI edits and bundling rules workshops",
+                    "Preparation for high-paying surgical coding roles",
+                    "Flexible batch schedules",
+                    "Dedicated placement assistance"
+                ],
+                "course_features": [
+                    "System-wise surgical coding approach",
+                    "Extensive operative report practice",
+                    "Modifier and global package mastery",
+                    "Performance-tracking mock assessments",
+                    "Resume building for surgery coder roles",
+                    "Specialty interview preparation",
+                    "Targeted placement support",
+                    "Lifetime subject clarification"
+                ],
+                "curriculum": [
+                    "Introduction to Surgical Coding",
+                    "The Global Surgical Package & Modifiers (22 to 82)",
+                    "Integumentary System Coding (Skin, Nails, Breast)",
+                    "Musculoskeletal System Coding (Fractures, Casts, Arthroscopy)",
+                    "Respiratory & Cardiovascular System Coding",
+                    "Digestive System Coding (Endoscopies, Hernias)",
+                    "Urinary & Male/Female Genital System Coding",
+                    "Nervous, Eye, and Ear System Coding",
+                    "NCCI Edits and Bundling Rules",
+                    "Practical Operative Report Coding Cases"
+                ],
+                "faqs": [
+                    {
+                        "question": "1. Who can enroll in Surgery coding training?",
+                        "answer": "Individuals with basic medical coding knowledge or CPC certification can enroll."
+                    },
+                    {
+                        "question": "2. Is Surgery coding suitable for freshers?",
+                        "answer": "Freshers with strong coding basics can enroll, but prior knowledge is recommended."
+                    },
+                    {
+                        "question": "3. Is Surgery coding difficult?",
+                        "answer": "It requires strong understanding of procedures and anatomy, but structured training makes it manageable."
+                    },
+                    {
+                        "question": "4. Does this course cover global period rules?",
+                        "answer": "Yes, global surgical package rules and modifiers are covered in detail."
+                    },
+                    {
+                        "question": "5. Does Turn Worth Academy provide placement support?",
+                        "answer": "Yes, placement assistance is provided for eligible candidates."
+                    },
+                    {
+                        "question": "6. What job roles are available after Surgery coding training?",
+                        "answer": "Surgery Coder, Specialty Coder, Physician Coder, Coding Analyst."
+                    },
+                    {
+                        "question": "7. Are classes available in Tamil?",
+                        "answer": "Yes, bilingual training is available."
+                    },
+                    {
+                        "question": "8. Can I attend Surgery training while working?",
+                        "answer": "Yes, flexible batch options are available."
+                    },
+                    {
+                        "question": "9. Does the course include operative report practice?",
+                        "answer": "Yes, real-time operative report-based case discussions are included."
+                    },
+                    {
+                        "question": "10. Is Surgery coding a high-paying specialization?",
+                        "answer": "Yes, surgical coding expertise increases career growth and salary potential."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "title": "Anaesthesia Coding Training",
+            "slug": "anaesthesia-coding",
+            "badge": "Speciality",
+            "category": "speciality",
+            "students": 150,
+            "lessons": 8,
+            "rating": 5,
+            "image": "assets/images/course/course-thumb2_3.jpg",
+            "price": null,
+            "instructor": "Turn Worth Team",
+            "description": "Anesthesia coding with time-based calculations and physical status modifiers.",
+            "details": {
+                "overview": {
+                    "what_is": "Anaesthesia Medical Coding involves assigning correct CPT modifiers and codes for anesthesia services provided during surgical, therapeutic, or diagnostic procedures. It differs from regular coding because it requires calculating base units, time units, and modifying units for accurate reimbursement.",
+                    "about": "An Anaesthesia Coder is a specialized professional who reviews anesthesia records to determine the type of anesthesia used (general, regional, MAC), calculates total anesthesia time, and applies physical status modifiers (P1-P6) and qualifying circumstances to ensure proper billing and compliance."
+                },
+                "roles_responsibilities": [
+                    "Identify correct CPT anesthesia codes for respective surgical procedures",
+                    "Calculate total anesthesia units (Base + Time + Modifying units)",
+                    "Apply physical status modifiers (P1 to P6) correctly",
+                    "Identify and code for qualifying circumstances (e.g., extreme age, emergency)",
+                    "Ensure documentation supports Medical Direction (concurrency modifiers like QK, QY, GC)",
+                    "Audit anesthesia records for compliance and revenue leakage prevention",
+                    "Coordinate with anesthesiologists for documentation clarity"
+                ],
+                "training_info": {
+                    "description": "The Anesthesia Coding training program at Turn Worth Academy is tailored to teach coders the complex unit-based billing systems used in anesthesia. The course focuses on time calculations, modifier applications, and Medicare rules specific to anesthesia.",
+                    "mode": "Online / Offline",
+                    "language": "English & Tamil",
+                    "duration": "15-20 days",
+                    "eligibility": "Basic Medical Coding Knowledge / Surgery Coding Awareness",
+                    "prerequisite": "Ideal for coders looking to specialize in high-demand niche coding"
+                },
+                "exam_overview": {
+                    "conducted_by": "AAPC (CANPC Exam Focus)",
+                    "exam_type": "Specialty Certification Oriented",
+                    "duration": "Internal Practical Assessments",
+                    "total_questions": "Unit Calculations & Case Studies",
+                    "passing_score": "70% in assessments",
+                    "manuals": "CPT, ASA Crosswalk, RVG (Relative Value Guide)",
+                    "format": "Calculations and modifier-heavy case scenarios"
+                },
+                "academy_benefits": [
+                    "Training by experienced anesthesia coding experts",
+                    "Practical training on ASA Crosswalk and RVG manuals",
+                    "Deep understanding of concurrency modifiers",
+                    "Time calculation worksheets",
+                    "Real-time anesthesia chart coding practice",
+                    "Specialty interview preparation",
+                    "Flexible batch timings",
+                    "Placement support for niche roles"
+                ],
+                "course_features": [
+                    "Focus purely on Anesthesia billing rules",
+                    "Physical Status Modifier mastery",
+                    "Post-operative pain management coding",
+                    "Mock tests assessing calculation accuracy",
+                    "Resume building for specialty roles",
+                    "Targeted placement assistance",
+                    "Continuous learning support"
+                ],
+                "curriculum": [
+                    "Introduction to Anesthesia Coding",
+                    "Anesthesia Terminology and Types of Anesthesia",
+                    "The Anesthesia Formula (Base Units + Time Units + Modifying Units)",
+                    "Understanding ASA Crosswalk & RVG",
+                    "Applying Physical Status Modifiers (P1-P6)",
+                    "Qualifying Circumstances Modifiers (99100-99140)",
+                    "Medical Direction & Concurrency Modifiers (AA, QK, QY, GC, QX, QZ)",
+                    "Coding Post-Operative Pain Management (Nerve Blocks/Epidurals)",
+                    "Medicare Guidelines for Anesthesia Billing",
+                    "Practical Anesthesia Chart Case Studies"
+                ],
+                "faqs": [
+                    {
+                        "question": "1. Who can enroll in Anesthesia coding training?",
+                        "answer": "Anyone with basic medical coding knowledge can enroll."
+                    },
+                    {
+                        "question": "2. Is CPC required for Anesthesia coding?",
+                        "answer": "CPC is preferred but not mandatory."
+                    },
+                    {
+                        "question": "3. What makes Anesthesia coding different from Surgery coding?",
+                        "answer": "Anesthesia coding is primarily time-based and involves unit calculations."
+                    },
+                    {
+                        "question": "4. Does this course cover time calculation methods?",
+                        "answer": "Yes, detailed anesthesia time calculation training is provided."
+                    },
+                    {
+                        "question": "5. Are physical status modifiers covered?",
+                        "answer": "Yes, P1-P6 modifiers are explained with practical examples."
+                    },
+                    {
+                        "question": "6. Is placement assistance provided?",
+                        "answer": "Yes, placement support is provided for eligible candidates."
+                    },
+                    {
+                        "question": "7. Is Anesthesia coding difficult?",
+                        "answer": "It requires attention to detail, but structured training makes it easy to understand."
+                    },
+                    {
+                        "question": "8. Are classes available in Tamil?",
+                        "answer": "Yes, bilingual training is available."
+                    },
+                    {
+                        "question": "9. Can working professionals attend this course?",
+                        "answer": "Yes, flexible batch timings are available."
+                    },
+                    {
+                        "question": "10. Is Anesthesia coding a good career option?",
+                        "answer": "Yes, it is a specialized and in-demand field with good growth potential."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "title": "IPDRG Training",
+            "slug": "ipdrg-training",
+            "badge": "Speciality",
+            "category": "speciality",
+            "students": 250,
+            "lessons": 12,
+            "rating": 5,
+            "image": "assets/images/course/course-thumb2_4.jpg",
+            "price": null,
+            "instructor": "Turn Worth Team",
+            "description": "Inpatient DRG coding and reimbursement methodology for hospital settings.",
+            "details": {
+                "overview": {
+                    "what_is": "IPDRG (Inpatient Diagnosis Related Groups) is a system used by hospitals and healthcare facilities to classify hospital cases into groups for Medicare and insurance reimbursement. The DRG system uses patient diagnoses, procedures, age, sex, and discharge status to determine the appropriate payment for inpatient stays.",
+                    "about": "An IPDRG Medical Coder is a specialized professional who assigns ICD-10-CM and ICD-10-PCS codes to inpatient records to determine the correct DRG assignment. Their role is critical in ensuring hospitals receive fair reimbursement for the complex care provided to admitted patients while maintaining strict compliance with CMS rules."
+                },
+                "roles_responsibilities": [
+                    "Analyze complex inpatient medical records",
+                    "Assign accurate ICD-10-CM diagnosis and ICD-10-PCS procedure codes",
+                    "Identify Principal Diagnosis, Secondary Diagnoses, and Procedures",
+                    "Identify MCC (Major Complication/Comorbidity) and CC (Complication/Comorbidity)",
+                    "Determine correct DRG grouping for maximum ethical reimbursement",
+                    "Ensure clinical documentation supports the assigned DRG",
+                    "Query physicians for vague or missing clinical documentation"
+                ],
+                "training_info": {
+                    "description": "The IPDRG training program at Turn Worth Academy focuses on the complexities of inpatient hospital reimbursement. The training covers DRG methodology, MCC/CC capture, MS-DRG logic, and detailed inpatient case studies to make you a proficient hospital coder.",
+                    "mode": "Online / Offline",
+                    "language": "English & Tamil",
+                    "duration": "30 days",
+                    "eligibility": "Basic Medical Coding Knowledge / Anatomy & Physiology awareness",
+                    "prerequisite": "Ideal for coders transitioning into inpatient hospital billing"
+                },
+                "exam_overview": {
+                    "conducted_by": "AAPC / AHIMA (Preparation Focus)",
+                    "exam_type": "Case Study & DRG Assignment Based",
+                    "duration": "Practical Assessments throughout course",
+                    "total_questions": "Various Inpatient Charts",
+                    "passing_score": "Internal Assessments",
+                    "manuals": "ICD-10-CM, ICD-10-PCS, DRG Grouper logic",
+                    "format": "Inpatient case scenarios and grouping software logic"
+                },
+                "academy_benefits": [
+                    "Expert training by inpatient hospital coding specialists",
+                    "Deep dive into MS-DRG and APR-DRG methodologies",
+                    "Real-time inpatient chart coding practice",
+                    "MCC/CC identification workshops",
+                    "Physician query training",
+                    "Exposure to DRG Grouper logic",
+                    "Interview preparation for hospital coding roles",
+                    "Targeted placement assistance"
+                ],
+                "course_features": [
+                    "Complete inpatient reimbursement training",
+                    "ICD-10-PCS basic training included",
+                    "Complex case study evaluations",
+                    "Revenue cycle impact training",
+                    "Compliance and audit preparation",
+                    "Resume building for inpatient roles",
+                    "Placement support",
+                    "Continuous learning forum"
+                ],
+                "curriculum": [
+                    "Introduction to Inpatient Coding & Reimbursement",
+                    "Difference Between Outpatient & Inpatient Coding",
+                    "Understanding the DRG (Diagnosis Related Group) System",
+                    "MS-DRG vs. APR-DRG Types",
+                    "Principal Diagnosis vs. Admitting Diagnosis Rules",
+                    "Identifying CC (Complications/Comorbidities) & MCC (Major CC)",
+                    "Basics of ICD-10-PCS (Procedure Coding System)",
+                    "DRG Grouper Logic & Weight Calculation",
+                    "The Physician Query Process",
+                    "Real-time Inpatient Chart Coding & Analysis"
+                ],
+                "faqs": [
+                    {
+                        "question": "1. Who can enroll in IPDRG training?",
+                        "answer": "Anyone with basic medical coding knowledge can enroll. CPC or CIC certification is preferred."
+                    },
+                    {
+                        "question": "2. Is IPDRG suitable for freshers?",
+                        "answer": "Freshers with strong coding fundamentals can enroll, but prior inpatient knowledge is helpful."
+                    },
+                    {
+                        "question": "3. What is the difference between CPC and IPDRG?",
+                        "answer": "CPC focuses mainly on outpatient coding, while IPDRG focuses on inpatient hospital coding and reimbursement."
+                    },
+                    {
+                        "question": "4. Does this course include ICD-10-PCS training?",
+                        "answer": "Yes, basic ICD-10-PCS procedure coding is covered."
+                    },
+                    {
+                        "question": "5. What is MCC and CC?",
+                        "answer": "MCC and CC are major and regular complications/comorbidities that affect DRG reimbursement."
+                    },
+                    {
+                        "question": "6. Is placement assistance provided?",
+                        "answer": "Yes, placement support is available for eligible candidates."
+                    },
+                    {
+                        "question": "7. Is DRG coding difficult?",
+                        "answer": "It requires analytical thinking, but structured training makes it easy to understand."
+                    },
+                    {
+                        "question": "8. Are classes available in Tamil?",
+                        "answer": "Yes, bilingual training is available."
+                    },
+                    {
+                        "question": "9. Can working professionals join this course?",
+                        "answer": "Yes, flexible batch timings are available."
+                    },
+                    {
+                        "question": "10. Is IPDRG a high-growth career option?",
+                        "answer": "Yes, DRG expertise is highly valued in hospital revenue cycle departments."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "title": "HCC Medical Coding Training",
+            "slug": "hcc-coding",
+            "badge": "Speciality",
+            "category": "speciality",
+            "students": 250,
+            "lessons": 12,
+            "rating": 5,
+            "image": "assets/images/course/course-thumb2_4.jpg",
+            "price": null,
+            "instructor": "Turn Worth Team",
+            "description": "Hierarchical Condition Category coding for risk adjustment and Medicare Advantage.",
+            "details": {
+                "overview": {
+                    "what_is": "HCC (Hierarchical Condition Category) Medical Coding is a risk adjustment model used to estimate future healthcare costs for patients. Introduced by CMS (Centers for Medicare & Medicaid Services), HCC coding relies heavily on ICD-10-CM coding to capture chronic conditions and accurate patient risk profiles. It is primarily used in Medicare Advantage plans.",
+                    "about": "An HCC Medical Coder specializes in reviewing patient medical records to identify and code chronic illnesses and severe conditions. Their accurate coding ensures healthcare organizations receive appropriate funding based on the complexity of patient care required. HCC coders play a crucial role in predicting patient care needs and improving healthcare quality."
+                },
+                "roles_responsibilities": [
+                    "Assign accurate ICD-10-CM diagnosis codes for chronic and acute conditions",
+                    "Review patient charts to capture unreported chronic illnesses",
+                    "Ensure clinical documentation meets MEAT (Monitor, Evaluate, Assess, Treat) criteria",
+                    "Validate undocumented or improperly coded HCC diagnoses",
+                    "Educate physicians on specific clinical documentation guidelines",
+                    "Support risk adjustment audits and compliance reviews",
+                    "Ensure maximum alignment of disease burden and reimbursement"
+                ],
+                "training_info": {
+                    "description": "The HCC Medical Coding training program at Turn Worth Academy is designed to equip coders with risk adjustment methodologies. The course covers deep ICD-10-CM guidelines, MEAT criteria, chronic disease pathology, and RAF (Risk Adjustment Factor) scoring.",
+                    "mode": "Online / Offline",
+                    "language": "English & Tamil",
+                    "duration": "30 days",
+                    "eligibility": "Basic Medical Coding Knowledge / Anatomy & Physiology awareness",
+                    "prerequisite": "Suitable for medical coders wanting to enter risk adjustment"
+                },
+                "exam_overview": {
+                    "conducted_by": "AAPC (USA)",
+                    "exam_type": "Open Book",
+                    "duration": "4 Hours",
+                    "total_questions": "100 MCQs",
+                    "passing_score": "70%",
+                    "manuals": "ICD-10-CM",
+                    "format": "Risk adjustment specific coding scenarios"
+                },
+                "academy_benefits": [
+                    "Training by certified Risk Adjustment Coding experts",
+                    "In-depth focus exclusively on ICD-10-CM & HCC guidelines",
+                    "Practical training with real-time patient charts",
+                    "MEAT criteria practical workshops",
+                    "Mock tests assessing risk documentation",
+                    "Updated course curriculum mapping to latest CMS guidelines",
+                    "Flexible learning schedule",
+                    "Targeted placement assistance in Risk Adjustment programs"
+                ],
+                "course_features": [
+                    "Specialized risk adjustment curriculum",
+                    "Detailed chronic disease coding focus",
+                    "RAF score understanding",
+                    "Performance-tracking mock assessments",
+                    "Guidance on certification alignment",
+                    "Interview prep for HCC specific roles",
+                    "Placement support",
+                    "Continuous learning support"
+                ],
+                "curriculum": [
+                    "Introduction to Risk Adjustment & HCC",
+                    "Understanding CMS & Medicare Advantage",
+                    "Deep Dive into ICD-10-CM Guidelines for HCC",
+                    "The MEAT Concept (Monitor, Evaluate, Assess, Treat)",
+                    "Coding Chronic Conditions (Diabetes, Hypertension, CKD, etc.)",
+                    "Neoplasms, Cardiovascular & Respiratory Conditions in HCC",
+                    "Mental Health & Neurological Disorders in HCC",
+                    "RAF (Risk Adjustment Factor) Score Basics",
+                    "Auditing & Validating HCC Codes",
+                    "Practical Case Studies in Risk Adjustment"
+                ],
+                "faqs": [
+                    {
+                        "question": "1. Who can enroll in HCC training?",
+                        "answer": "Anyone with basic medical coding knowledge can enroll."
+                    },
+                    {
+                        "question": "2. Is CPC required for HCC coding?",
+                        "answer": "CPC is preferred but not mandatory."
+                    },
+                    {
+                        "question": "3. What makes HCC coding different from regular coding?",
+                        "answer": "HCC coding focuses on chronic conditions and risk adjustment rather than just claim submission."
+                    },
+                    {
+                        "question": "4. Does this course cover RAF calculation?",
+                        "answer": "Yes, basic RAF score calculation concepts are explained."
+                    },
+                    {
+                        "question": "5. Is HCC coding suitable for freshers?",
+                        "answer": "Yes, with proper training and strong coding basics."
+                    },
+                    {
+                        "question": "6. Is placement assistance provided?",
+                        "answer": "Yes, placement support is available for eligible candidates."
+                    },
+                    {
+                        "question": "7. Are classes available in Tamil?",
+                        "answer": "Yes, bilingual training is available."
+                    },
+                    {
+                        "question": "8. Can working professionals attend this course?",
+                        "answer": "Yes, flexible batch timings are available."
+                    },
+                    {
+                        "question": "9. Is HCC coding a high-paying specialization?",
+                        "answer": "Yes, HCC specialists are highly valued in risk adjustment projects."
+                    },
+                    {
+                        "question": "10. Does this course include practical case studies?",
+                        "answer": "Yes, real-time risk adjustment case discussions are included."
+                    }
+                ]
+            }
+        }
+    ]
+}
