@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="zxx">
+
+
+<!-- Mirrored from codemy-html.netlify.app/course-details by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 20 Jan 2026 12:42:08 GMT -->
+<!-- Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+
+<head>
+    <!--=========== Meta Tags ==========-->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="CrabTheme">
+    <meta name="description" content="Codemy - Online Courses & Education Html Template ">
+    <!--============= Page title ============ -->
+    <title>Codemy - Online Courses & Education Html Template </title>
+    <!--===== Favcion =====-->
+    <link rel="shortcut icon" href="assets/images/favicon.png">
+    <!--===== Bootstrap min.css =====-->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <!--===== All Min Css =====-->
+    <link rel="stylesheet" href="assets/css/all.min.css">
+    <!--===== Animate.css =====-->
+    <link rel="stylesheet" href="assets/css/animate.css">
+    <!--===== MeanMenu.css =====-->
+    <link rel="stylesheet" href="assets/css/meanmenu.css">
+    <!--===== Swiper Bundle.css =====-->
+    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
+    <!--===== Magnific Popup.css =====-->
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    <!--===== Text Splitting.css =====-->
+    <link rel="stylesheet" href="assets/css/splitting.css">
+    <!--===== Main.css =====-->
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+
+<body class="bg-white">
+
+
+    <!--===== Mouse Cursor Start =====-->
+    <div class="mouse-cursor cursor-outer"></div>
+    <div class="mouse-cursor cursor-inner"></div>
+
+    <!--===== Back To Top Start =====-->
+    <button id="back-top" class="back-to-top">
+        <i class="fa-solid fa-chevron-up"></i>
+    </button>
+
+
+    <!--===== Mobilemenu    S T A R T =====-->
+    <div id="mobile-menu-placeholder"></div>
+
+    <!--===== Header Section    S T A R T =====-->
+    <div id="header-placeholder" data-layout="3"></div>
+
+    <div class="breadcrumb fix background-image"
+        style="background-image: url(assets/images/breadcrumb/breadcrumb-bg.png);">
+        <div class="container">
+            <div class="breadcrumb-wrapper">
+                <div class="breadcrumb-content">
+                    <h3 class="breadcrumb-content__title">Course Details </h3>
+                    <ul class="breadcrumb-content__items">
+                        <li>
+                            <a href='index.html'>
+                                <i class="fa-solid fa-house"></i> Home
+                            </a>
+                        </li>
+                        <li>
+                            Course Details
+                        </li>
+                    </ul>
+                </div>
+                <div class="breadcrumb-thumb-wrapper">
+                    <div class="thumb1">
+                        <img src="assets/images/breadcrumb/breadcrumb-thumb1.png" alt="img">
+                    </div>
+                    <div class="thumb2">
+                        <img src="assets/images/breadcrumb/breadcrumb-thumb2.png" alt="img">
+                    </div>
+                    <div class="shape1">
+                        <img src="assets/images/breadcrumb/breadcrumb-shape1.png" alt="img">
+                    </div>
+                    <div class="shape2">
+                        <img src="assets/images/breadcrumb/breadcrumb-shape2.png" alt="img">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--===== Courses Section    S T A R T =====-->
+    <div class="course-details pt-30 fix">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-9">
+                
+                    <div class="course-details-top">
+                        <div class="d-flex align-items-center">
+                            <div id="course-category" class="course-details-top__subject"></div>
+                            <div class="course-details-top__rating">
+                                <ul id="course-rating">
+                                    <!-- Stars will be injected here -->
+                                </ul>
+                                <div id="course-rating-count" class="course-details-top__text"></div>
+                            </div>
+                        </div>
+                        <h4 id="course-title" class="course-details-top__title"></h4>
+
+
+                    </div>
+                    
+                    <!-- Overview / Description -->
+                    <div id="course-overview-section">
+                        <h4 class="course-details__title">About Course</h4>
+                        <p id="course-description" class="course-details__text"></p>
+                        
+                        <!-- Dynamic Overview Details (Extended) -->
+                        <div id="extended-details"></div>
+                    </div>
+
+                    
+                    <!-- FAQ Section -->
+                    <div id="faq-section" style="display: none;">
+                        <h4 class="course-details__title">FAQ</h4>
+                        <div class="faq1 fix">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="faq1-wrapper">
+                                            <div class="tab-content" id="pills-tabContent">
+                                                <div class="tab-pane fade show active" id="pills-student" role="tabpanel">
+                                                    <div class="row">
+                                                        <div class="col-xl-12">
+                                                            <div class="accordion" id="faqAccordion">
+                                                                <!-- FAQ Items will be injected here -->
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-xl-3">
+                    <div class="course-details-right">
+                        <div class="course-details-right__thumb">
+                            <img id="course-sidebar-image" src="" alt="img">
+                            <div class="course-details-right__video">
+
+                            </div>
+                        </div>
+                        <h4 class="course-details-right__title">Course Includes</h4>
+                        <ul class="course-details-right__list">
+                             <!-- <li><span class="title"><i class="fa-regular fa-signal-bars"></i> Level:</span>
+                                <span>Expert</span>
+                            </li> -->
+                             <li><span class="title"><i class="fa-regular fa-clock"></i> Duration:</span> <span id="sidebar-duration">--</span></li>
+                            <li><span class="title"><i class="fa-regular fa-file-lines"></i> Lessons:</span>
+                                <span id="sidebar-lessons">--</span>
+                            </li>
+                            <li><span class="title"><i class="fa-thin fa-users"></i> Students:</span> <span id="sidebar-students">--</span></li>
+                            <li><span class="title"><i class="fa-regular fa-globe"></i> Language:</span>
+                                <span id="sidebar-language">English</span>
+                            </li>
+                            <!-- <li><span class="title"><i class="fa-regular fa-calendar-days"></i> Deadline:</span>
+                                <span>March 15,2025</span>
+                            </li> -->
+                            <li><span class="title"><i class="fa-light fa-medal"></i> Certificate:</span>
+                                <span>Yes</span>
+                            </li>
+                        </ul>
+                        <div class="course-details-right__btn-wrapper">
+                            <a class="theme-btn style1" href="#!">Join This Course</a>
+                            <a class="share-btn" href="#!"><i class="fa-regular fa-share-nodes"></i> Share this
+                                Course</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Helper to get query params
+            function getQueryParam(param) {
+                const urlParams = new URLSearchParams(window.location.search);
+                return urlParams.get(param);
+            }
+
+            const courseId = getQueryParam('id');
+            if (!courseId) {
+                // If no ID, maybe redirect or show a default/placeholder? 
+                // For now, we just log it.
+                console.log("No course ID provided.");
+                return;
+            }
+
+            // Fetch course data
+            fetch('assets/data/courses.json')
+                .then(response => response.json())
+                .then(data => {
+                    const course = data.courses.find(c => c.id == courseId);
+                    
+                    if (course) {
+                        // 1. Basic Info
+                        document.title = course.title + " - Turn Worth Academy";
+                        document.querySelector('.breadcrumb-content__title').textContent = course.title;
+                        
+                        // Breadcrumb trailing item
+                        const breadcrumbItems = document.querySelector('.breadcrumb-content__items li:last-child');
+                        if (breadcrumbItems) breadcrumbItems.textContent = course.title;
+
+                        document.getElementById('course-title').textContent = course.title;
+                        document.getElementById('course-category').textContent = course.category || 'General';
+                        // document.getElementById('course-category-text').textContent = course.category || 'General';
+                        // document.getElementById('instructor-name').textContent = course.instructor || 'Turn Worth Team';
+                        document.getElementById('course-description').textContent = course.description;
+                        
+                        // Images
+                        const imgPath = course.image || 'assets/images/course/course-details-thumb1.jpg';
+                        // Safely check if elements exist before setting
+                        const mainImage = document.getElementById('course-image');
+                        if (mainImage) mainImage.src = imgPath;
+                        
+                        const sidebarImage = document.getElementById('course-sidebar-image');
+                        if (sidebarImage) sidebarImage.src = imgPath;
+
+                        // Rating
+                        const ratingContainer = document.getElementById('course-rating');
+                        ratingContainer.innerHTML = '';
+                        // Simple 5 star logic (all full for now as per JSON default)
+                        for(let i=0; i<5; i++) {
+                            ratingContainer.innerHTML += '<li><i class="fa-solid fa-star-sharp"></i></li>';
+                        }
+                        document.getElementById('course-rating-count').textContent = `(${course.rating}.000)`;
+
+                        // Sidebar Stats
+                        document.getElementById('sidebar-lessons').textContent = course.lessons;
+                        document.getElementById('sidebar-students').textContent = course.students;
+                        
+                        // 2. Extended Details (if available)
+                        const details = course.details;
+                        const extendedContainer = document.getElementById('extended-details');
+                        extendedContainer.innerHTML = ''; // Clear
+
+                        if (details) {
+                            // Update sidebar with real data if available
+                            if (details.training_info) {
+                                if (details.training_info.duration) document.getElementById('sidebar-duration').textContent = details.training_info.duration;
+                                if (details.training_info.language) document.getElementById('sidebar-language').textContent = details.training_info.language;
+                            }
+
+                            // Overview Section
+                            if (details.overview) {
+                                if (details.overview.what_is) {
+                                    extendedContainer.innerHTML += `<h4 class="mt-4 course-details__title">What is ${course.title || 'this course'}?</h4><p class="course-details__text">${details.overview.what_is}</p>`;
+                                }
+                                if (details.overview.about) {
+                                    extendedContainer.innerHTML += `<h4 class="mt-4 course-details__title">About the Course</h4><p class="course-details__text">${details.overview.about}</p>`;
+                                }
+                            }
+
+                            // Roles & Responsibilities
+                            if (details.roles_responsibilities && details.roles_responsibilities.length > 0) {
+                                let rolesHtml = '<h4 class="mt-4 course-details__title">Roles & Responsibilities</h4><ul class="course-details__list">';
+                                details.roles_responsibilities.forEach(item => {
+                                    rolesHtml += `<li><span><img src="assets/images/event/check.svg" alt="icon"></span>${item}</li>`;
+                                });
+                                rolesHtml += '</ul>';
+                                extendedContainer.innerHTML += rolesHtml;
+                            }
+
+                            // Course Features
+                            if (details.course_features && details.course_features.length > 0) {
+                                let featHtml = '<h4 class="mt-4 course-details__title">Course Features</h4><ul class="course-details__list">';
+                                details.course_features.forEach(item => {
+                                    featHtml += `<li><span><img src="assets/images/event/check.svg" alt="icon"></span>${item}</li>`;
+                                });
+                                featHtml += '</ul>';
+                                extendedContainer.innerHTML += featHtml;
+                            }
+
+                            // Training Info (Extended)
+                            if (details.training_info) {
+                                let trainHtml = '<h4 class="mt-4 course-details__title">Training Details</h4>';
+                                const tInfo = details.training_info;
+                                
+                                if (tInfo.description) {
+                                    trainHtml += `<p class="course-details__text">${tInfo.description}</p>`;
+                                }
+
+                                trainHtml += '<ul class="course-details__list">';
+                                if(tInfo.mode) trainHtml += `<li><strong>Mode:</strong> ${tInfo.mode}</li>`;
+                                if(tInfo.eligibility) trainHtml += `<li><strong>Eligibility:</strong> ${tInfo.eligibility}</li>`;
+                                if(tInfo.prerequisite) trainHtml += `<li><strong>Prerequisite:</strong> ${tInfo.prerequisite}</li>`;
+                                trainHtml += '</ul>';
+                                // Only append if we actually added items (checking length of string or just relying on existence of object which we did)
+                                extendedContainer.innerHTML += trainHtml;
+                            }
+
+                            // Exam Overview
+                            if (details.exam_overview) {
+                                let examHtml = '<h4 class="mt-4 course-details__title">Exam Overview</h4><ul class="course-details__list">';
+                                const exam = details.exam_overview;
+                                // Map keys to readable labels if needed, or just iterate specific ones
+                                const examFields = {
+                                    "conducted_by": "Conducted By",
+                                    "exam_type": "Exam Type",
+                                    "duration": "Duration",
+                                    "total_questions": "Total Questions",
+                                    "passing_score": "Passing Score",
+                                    "manuals": "Manuals",
+                                    "format": "Format"
+                                };
+                                
+                                for (const [key, label] of Object.entries(examFields)) {
+                                    if(exam[key]) {
+                                        examHtml += `<li><strong>${label}:</strong> ${exam[key]}</li>`;
+                                    }
+                                }
+                                examHtml += '</ul>';
+                                extendedContainer.innerHTML += examHtml;
+                            }
+
+                            // Curriculum
+                            if (details.curriculum && details.curriculum.length > 0) {
+                                let currHtml = '<h4 class="mt-4 course-details__title">Curriculum</h4><ul class="course-details__list">';
+                                details.curriculum.forEach(item => {
+                                    currHtml += `<li><span><img src="assets/images/event/check.svg" alt="icon"></span>${item}</li>`;
+                                });
+                                currHtml += '</ul>';
+                                extendedContainer.innerHTML += currHtml;
+                            }
+
+                            // Academy Benefits
+                            if (details.academy_benefits && details.academy_benefits.length > 0) {
+                                let benHtml = '<h4 class="mt-4 course-details__title">Academy Benefits</h4><ul class="course-details__list">';
+                                details.academy_benefits.forEach(item => {
+                                    benHtml += `<li><span><img src="assets/images/event/check.svg" alt="icon"></span>${item}</li>`;
+                                });
+                                benHtml += '</ul>';
+                                extendedContainer.innerHTML += benHtml;
+                            }
+
+                            // Verify FAQs
+                            if (details.faqs && details.faqs.length > 0) {
+                                const faqSection = document.getElementById('faq-section');
+                                const faqAccordion = document.getElementById('faqAccordion');
+                                faqSection.style.display = 'block';
+                                faqAccordion.innerHTML = '';
+
+                                details.faqs.forEach((faq, index) => {
+                                    const id = `collapse${index}`;
+                                    const expanded = index === 0 ? 'true' : 'false';
+                                    const showClass = index === 0 ? 'show' : '';
+                                    const collapsedClass = index === 0 ? '' : 'collapsed';
+
+                                    const html = `
+                                    <div class="global-accordion-item">
+                                        <div class="global-accordion-header">
+                                            <div class="global-accordion-button ${collapsedClass}"
+                                                data-bs-toggle="collapse" role="group"
+                                                data-bs-target="#${id}"
+                                                aria-expanded="${expanded}"
+                                                aria-controls="${id}">
+                                                <div class="question">${faq.question}</div>
+                                                <span class="icon"><i class="fa-solid fa-angles-right"></i></span>
+                                                <span class="icon2"><i class="fa-solid fa-angles-down"></i></span>
+                                            </div>
+                                        </div>
+                                        <div id="${id}" class="global-accordion-collapse collapse ${showClass}" data-bs-parent="#faqAccordion">
+                                            <div class="global-accordion-body">
+                                                <p>${faq.answer}</p>
+                                            </div>
+                                        </div>
+                                    </div>`;
+                                    faqAccordion.innerHTML += html;
+                                });
+                            }
+                        } else {
+                            // Render minimal static info if no extended details
+                            // (Already handled by basic info above)
+                        }
+
+
+                    } else {
+                        console.error('Course not found');
+                        document.querySelector('.course-details').innerHTML = '<div class="container"><h3 class="text-center my-5">Course not found</h3></div>';
+                    }
+                })
+                .catch(err => console.error('Error fetching courses:', err));
+        });
+    </script>
+
+    <!--===== Footer Section    S T A R T =====-->
+    <div id="footer-placeholder"></div>
+
+
+    <!--===== All JS Plugins =====-->
+    <script src="assets/js/jquery-3.7.1.min.js"></script>
+    <!--===== Bootstrap Js =====-->
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <!--===== Waypoints Js =====-->
+    <script src="assets/js/jquery.waypoints.js"></script>
+    <!--===== Counterup Js =====-->
+    <script src="assets/js/jquery.counterup.min.js"></script>
+    <!--===== Viewport Js =====-->
+    <script src="assets/js/viewport.jquery.js"></script>
+    <!--===== Tilt Js =====-->
+    <script src="assets/js/tilt.min.js"></script>
+    <!--===== Splitting Animation Js =====-->
+    <script src="assets/js/splitting.js"></script>
+    <!--===== Swiper Slider Js =====-->
+    <script src="assets/js/swiper-bundle.min.js"></script>
+    <!--===== Magnific Js =====-->
+    <script src="assets/js/magnific-popup.min.js"></script>
+    <!--===== MeanMenu Js =====-->
+    <script src="assets/js/jquery.meanmenu.min.js"></script>
+    <!--===== Wow Animation Js =====-->
+    <script src="assets/js/wow.min.js"></script>
+    <!--===== Main.js =====-->
+    <script src="assets/js/price-rangr.js"></script>
+    <script src="assets/js/main.js"></script>
+
+</body>
+
+
+<!-- Mirrored from codemy-html.netlify.app/course-details by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 20 Jan 2026 12:42:12 GMT -->
+
+</html>
