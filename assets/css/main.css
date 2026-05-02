@@ -4637,7 +4637,7 @@ img {
 }
 
 .sticky-wrapper2 {
-  transition: 0.4s ease-in-out;
+  /* transition: 0.4s ease-in-out; */
 }
 .sticky-wrapper2.sticky {
   position: fixed;
@@ -4857,7 +4857,7 @@ img {
   padding-top: 40px;
   display: block;
   text-align: center;
-  background-color: var(--black);
+  /* background-color: var(--black); */
 }
 .global-menu-wrapper .mobile-logo svg {
   max-width: 185px;
@@ -5674,7 +5674,7 @@ img {
   }
 }
 .sticky-wrapper2 {
-  transition: 0.4s ease-in-out;
+  /* transition: 0.4s ease-in-out; */
 }
 .sticky-wrapper2.sticky {
   position: fixed;
@@ -5904,7 +5904,7 @@ img {
   padding-top: 40px;
   display: block;
   text-align: center;
-  background-color: var(--black);
+  /* background-color: var(--black); */
   text-align: left;
 }
 @media (max-width: 449px) {
@@ -6536,7 +6536,7 @@ img {
 }
 
 .sticky-wrapper2 {
-  transition: 0.4s ease-in-out;
+  /* transition: 0.4s ease-in-out; */
 }
 .sticky-wrapper2.white-bg.sticky {
   position: fixed;
@@ -13259,4 +13259,21 @@ img {
     visibility: visible !important;
     transform: none !important;
     z-index: 99999 !important;
+}
+
+.logo-design {
+  width: 250px; /* Increased width */
+  max-height: 80px; /* Increased max-height to allow proportional growth */
+  /* object-fit: contain; Prevents the image from distorting/stretching */
+}
+
+.footer_social {
+     display: flex;
+    gap: 35px;
+}
+@media (max-width: 500px) {
+  .logo-design  {
+    width: 210px; 
+    max-height: 60px; 
+  }
 }
