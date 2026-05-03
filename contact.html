@@ -108,7 +108,7 @@
                                 </div>
                                 <div class="contact1-info-content">
                                     <p class="contact1-info-content__title">Call Us 7/24</p>
-                                    <a class="contact1-info-content__link" href="tel:+208-555-0112"> +208-555-0112</a>
+                                    <a class="contact1-info-content__link" id="contact-phone" href="tel:+208-555-0112"> +208-555-0112</a>
                                 </div>
                             </div>
                             <div class="contact1-info">
@@ -127,8 +127,8 @@
                                     </svg>
                                 </div>
                                 <div class="contact1-info-content">
-                                    <p class="contact1-info-content__title">Make a Quote</p>
-                                    <a class="contact1-info-content__link" href="mailto:curbub@gmail.com">
+                                    <p class="contact1-info-content__title">Email Us</p>
+                                    <a class="contact1-info-content__link" id="contact-email" href="mailto:curbub@gmail.com">
                                         curbub@gmail.com</a>
                                 </div>
                             </div>
@@ -146,15 +146,12 @@
                                 </div>
                                 <div class="contact1-info-content">
                                     <p class="contact1-info-content__title">Location</p>
-                                    <a class="contact1-info-content__link" href="#!">4517 Washington ave.</a>
+                                    <a class="contact1-info-content__link" id="contact-address" href="#!">4517 Washington ave.</a>
                                 </div>
                             </div>
                         </div>
                         <div class="contact1-map">
-                            <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28821.965472924858!2d89.07524545!3d25.4467646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fcb92fb4d9696d%3A0x74b18fed6b93e5e5!2sNobabgonj%20National%20garden!5e0!3m2!1sen!2sbd!4v1737219845253!5m2!1sen!2sbd"
-                                style="border:0;" allowfullscreen="" loading="lazy"
-                                referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2788.0376508348163!2d78.13195817165014!3d8.797281420756608!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b03efbf5a5fb1f3%3A0xd2277f1877136de5!2s85%2C%20Subbiahpuram%204th%20St%2C%20Subbiah%20Puram%2C%20Thoothukudi%2C%20Tamil%20Nadu%20628001%2C%20India!5e0!3m2!1sen!2suk!4v1777712821101!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     </div>
                 </div>
@@ -163,7 +160,7 @@
                         <h3 class="title">Send Our Message</h3>
                         <form action="#!">
                             <div class="contact1-input">
-                                <div class="row">
+                                <div class="row" id="dynamic-form-fields">
                                     <div class="col-md-6">
                                         <div class="contact1-input-area">
                                             <label class="form-label">Your Name *</label>
@@ -173,7 +170,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <div class="contact1-input-area">
-                                            <label for="exampleFormControlInput4" class="form-label">Your Email*</label>
+                                            <label for="exampleFormControlInput2" class="form-label">Your Email*</label>
                                             <input type="text" class="form-control" id="exampleFormControlInput2"
                                                 placeholder="Your Email">
                                         </div>
@@ -240,6 +237,79 @@
     <!--===== Main.js =====-->
     <script src="assets/js/main.js"></script>
 
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            fetch('assets/doc/contact.json')
+                .then(response => response.json())
+                .then(data => {
+                    const contactData = data.contact;
+                    
+                    // Update Contact Info
+                    if(contactData.info.phone) {
+                        const phoneEl = document.getElementById('contact-phone');
+                        if(phoneEl) {
+                            phoneEl.textContent = contactData.info.phone;
+                            phoneEl.href = 'tel:' + contactData.info.phone.replace(/\s+/g, '');
+                        }
+                    }
+                    
+                    if(contactData.info.email) {
+                        const emailEl = document.getElementById('contact-email');
+                        if(emailEl) {
+                            emailEl.textContent = contactData.info.email;
+                            let emailStr = contactData.info.email.trim();
+                            if(emailStr.toLowerCase() === 'info mail') {
+                                emailStr = 'info@turnworth.com'; // Fallback for placeholder
+                                emailEl.textContent = emailStr;
+                            }
+                            emailEl.href = 'mailto:' + emailStr;
+                        }
+                    }
+                    
+                    if(contactData.info.address) {
+                        const addressEl = document.getElementById('contact-address');
+                        if(addressEl) {
+                            addressEl.textContent = contactData.info.address;
+                        }
+                    }
+
+                    // Update Form Fields
+                    const formFieldsContainer = document.getElementById('dynamic-form-fields');
+                    if(formFieldsContainer && contactData.form && contactData.form.fields) {
+                        let formHtml = '';
+                        contactData.form.fields.forEach(field => {
+                            const colClass = field.type === 'textarea' ? 'col-md-12' : 'col-md-6';
+                            if (field.type === 'textarea') {
+                                formHtml += `
+                                    <div class="${colClass}">
+                                        <label class="form-label">${field.label}*</label>
+                                        <textarea class="form-control" name="${field.name}" rows="5" placeholder="${field.placeholder}"></textarea>
+                                    </div>
+                                `;
+                            } else {
+                                formHtml += `
+                                    <div class="${colClass}">
+                                        <div class="contact1-input-area">
+                                            <label class="form-label">${field.label}*</label>
+                                            <input type="${field.type}" class="form-control" name="${field.name}" placeholder="${field.placeholder}">
+                                        </div>
+                                    </div>
+                                `;
+                            }
+                        });
+                        
+                        formHtml += `
+                            <div class="contact1-input-btn-wrapper">
+                                <button class="theme-btn style1">Send Message <i class="fa-regular fa-arrow-right"></i></button>
+                            </div>
+                        `;
+                        
+                        formFieldsContainer.innerHTML = formHtml;
+                    }
+                })
+                .catch(error => console.error('Error loading contact data:', error));
+        });
+    </script>
 </body>
 
 

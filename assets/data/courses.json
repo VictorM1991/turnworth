@@ -1581,6 +1581,220 @@
                     }
                 ]
             }
+        },
+        {
+            "id": 17,
+            "title": "DevOps & Cloud Technology Programs",
+            "slug": "devops-cloud-technology",
+            "badge": "Technology",
+            "category": "technology",
+            "students": 250,
+            "lessons": 12,
+            "rating": 5,
+            "image": "assets/images/course/course-thumb2_2.jpg",
+            "price": null,
+            "instructor": "Turn Worth Team",
+            "description": "Master Linux, DevOps tools, Cloud platforms, and Infrastructure Automation to become industry-ready.",
+            "details": {
+                "overview": {
+                    "what_is": "DevOps & Cloud Technology is a modern approach in IT that combines development and operations to improve software delivery, automation, and infrastructure management. Cloud platforms like AWS, GCP, and Azure help businesses run applications without physical servers, while DevOps ensures faster deployment, continuous integration, and efficient system management.",
+                    "about": "A DevOps & Cloud Engineer is responsible for managing servers, automating deployment pipelines, handling cloud infrastructure, and ensuring smooth application performance. They play a key role in reducing manual work, improving system efficiency, and accelerating product delivery."
+                },
+                "roles_responsibilities": [
+                    "Manage Linux servers and environments",
+                    "Work with Git & version control systems",
+                    "Create and manage CI/CD pipelines",
+                    "Automate build and deployment processes",
+                    "Configure and manage cloud services (AWS, GCP, Azure)",
+                    "Monitor system performance using tools",
+                    "Work with containerization concepts (Docker basics)",
+                    "Automate infrastructure using Terraform",
+                    "Ensure system scalability and security",
+                    "Troubleshoot server and deployment issues"
+                ],
+                "training_info": {
+                    "description": "The DevOps & Cloud training program at Turn Worth Academy is designed to provide complete practical knowledge with real-time tools. This training covers Linux, DevOps tools, Cloud platforms, and Infrastructure Automation to make you industry-ready.",
+                    "mode": "Online / Offline",
+                    "language": "English & Tamil",
+                    "duration": "2 - 3 Months",
+                    "eligibility": "Any Degree / Basic Computer Knowledge",
+                    "prerequisite": "Suitable for Freshers, IT & Non-IT Students, and Career Switchers"
+                },
+                "exam_overview": {
+                    "conducted_by": "Turn Worth Academy",
+                    "exam_type": "Practical Assessments",
+                    "duration": "2 - 3 Months",
+                    "total_questions": "Includes Assignments and Practice Tasks",
+                    "passing_score": "Based on Practical Implementation",
+                    "manuals": "Real-time projects and case studies",
+                    "format": "Hands-on cloud deployment"
+                },
+                "academy_benefits": [
+                    "Industry-experienced trainers",
+                    "Hands-on practical training",
+                    "Real-time project implementation",
+                    "Cloud platform exposure (AWS, GCP, Azure)",
+                    "Beginner-friendly approach",
+                    "Flexible batch timings",
+                    "Placement assistance",
+                    "Interview & resume preparation"
+                ],
+                "course_features": [
+                    "Complete DevOps & Cloud training",
+                    "Linux + DevOps + Cloud + Automation tools",
+                    "Real-time projects and case studies",
+                    "CI/CD pipeline implementation",
+                    "Hands-on cloud deployment",
+                    "Assignments & practice tasks",
+                    "Mock interviews & assessments",
+                    "Certification guidance",
+                    "Placement support",
+                    "Lifetime academic support"
+                ],
+                "curriculum": [
+                    "Linux System Administration",
+                    "DevOps Engineering",
+                    "Cloud Computing (AWS, GCP & Azure)",
+                    "Infrastructure as Code (Terraform)",
+                    "Full DevOps & Cloud Master Program"
+                ],
+                "faqs": [
+                    {
+                        "question": "1. Who can enroll in this course?",
+                        "answer": "Anyone with basic computer knowledge can join this course."
+                    },
+                    {
+                        "question": "2. Is this course suitable for freshers?",
+                        "answer": "Yes, it is designed for beginners and freshers."
+                    },
+                    {
+                        "question": "3. Do I need coding knowledge?",
+                        "answer": "No, basic understanding is enough. Training starts from fundamentals."
+                    },
+                    {
+                        "question": "4. Which cloud platforms are covered?",
+                        "answer": "AWS, Google Cloud (GCP), and Microsoft Azure basics are covered."
+                    },
+                    {
+                        "question": "5. Will I get hands-on experience?",
+                        "answer": "Yes, the course includes real-time projects and practical sessions."
+                    },
+                    {
+                        "question": "6. Is placement assistance available?",
+                        "answer": "Yes, placement support is provided for eligible students."
+                    },
+                    {
+                        "question": "7. Are classes available in Tamil?",
+                        "answer": "Yes, classes are available in English & Tamil."
+                    },
+                    {
+                        "question": "8. Can working professionals join?",
+                        "answer": "Yes, flexible timings are available."
+                    },
+                    {
+                        "question": "9. Is DevOps a good career option?",
+                        "answer": "Yes, it is one of the highest in-demand IT career paths."
+                    },
+                    {
+                        "question": "10. Will I receive certification?",
+                        "answer": "Yes, you will get a course completion certificate."
+                    }
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "title": "AI-Powered Full Stack Digital Marketing Course",
+            "slug": "ai-powered-digital-marketing",
+            "badge": "Digital Marketing",
+            "category": "digital-marketing",
+            "students": 2000,
+            "lessons": 50,
+            "rating": 5,
+            "image": "assets/images/course/course-thumb2_1.jpg",
+            "price": null,
+            "instructor": "Turn Worth Team",
+            "description": "Master modern digital marketing with the power of AI. Learn advanced strategies in SEO, social media marketing, paid advertising, and automation tools.",
+            "details": {
+                "overview": {
+                    "what_is": "This course is designed to give you a complete, job-ready skill set in digital marketing powered by AI tools and smart strategies. Learn the core concepts of digital marketing, key channels, and future trends shaping the industry.",
+                    "about": "Whether you're a beginner or a professional, you'll gain practical knowledge, real-world experience, and the confidence to grow in today's digital space. Learn, implement, and grow with powerful AI tools—and transform your digital marketing skills to the next level!"
+                },
+                "roles_responsibilities": [
+                    "Introduction to AI in Digital Marketing",
+                    "SEO Mastery with AI Automation",
+                    "AI-Powered Social Media Marketing Strategies",
+                    "Performance Marketing to Maximize ROI",
+                    "WhatsApp Marketing & Automation Techniques",
+                    "Content Marketing for Consistent Growth",
+                    "Creating High-Converting Ad Campaigns",
+                    "Email Marketing Automation for Better Results"
+                ],
+                "training_info": {
+                    "description": "Master Digital Marketing Foundations, AI-Powered Marketing Strategies, Advanced SEO Techniques, Paid Advertising Mastery, Marketing Automation Skills, Freelancing & Monetization, and a Capstone Project.",
+                    "mode": "Online / Offline",
+                    "language": "English & Tamil",
+                    "duration": "3 Months",
+                    "eligibility": "Beginner to Advanced",
+                    "prerequisite": "No prior experience required"
+                },
+                "exam_overview": {
+                    "conducted_by": "Turn Worth Academy",
+                    "exam_type": "Practical Projects & Quizzes",
+                    "duration": "3 Months",
+                    "total_questions": "Includes Quizzes and Case Studies",
+                    "passing_score": "Based on Project Evaluation",
+                    "manuals": "10+ Downloadable Guides, Templates & Tools",
+                    "format": "Real-World Implementation"
+                },
+                "academy_benefits": [
+                    "Lifetime Access with Future Updates",
+                    "Industry-Recognized Certificate",
+                    "10+ Downloadable Guides, Templates & Tools",
+                    "Real-World Implementation",
+                    "Freelancing & Client Acquisition skills",
+                    "Mega Capstone Project"
+                ],
+                "course_features": [
+                    "Marketing Foundation (3 Projects | 2 Case Studies | 3 Quizzes)",
+                    "Search Engine Optimization (SEO) & Content Marketing (6 Projects | 4 Case Studies | 6 Quizzes)",
+                    "Social Media Marketing (3 Projects | 3 Case Studies | 3 Quizzes)",
+                    "Performance Marketing (Paid Ads) (8 Projects | 7 Case Studies | 8 Quizzes)",
+                    "Marketing Automation & AI (8 Projects | 7 Case Studies | 8 Quizzes)",
+                    "Email & WhatsApp Marketing Automation",
+                    "AI Tools for Content, Ads & Landing Pages"
+                ],
+                "curriculum": [
+                    "Marketing Foundation",
+                    "Search Engine Optimization (SEO) & Content Marketing",
+                    "Social Media Marketing",
+                    "Performance Marketing (Paid Ads)",
+                    "Marketing Automation & AI",
+                    "Mega Capstone Project (Real-World Implementation)"
+                ],
+                "faqs": [
+                    {
+                        "question": "What is the duration of the course?",
+                        "answer": "The course duration is 3 Months."
+                    },
+                    {
+                        "question": "Are classes available in Tamil?",
+                        "answer": "Yes, bilingual training is available in English & Tamil."
+                    },
+                    {
+                        "question": "Do I get a certificate upon completion?",
+                        "answer": "Yes, you will receive an Industry-Recognized Certificate."
+                    },
+                    {
+                        "question": "Is there lifetime access to the course?",
+                        "answer": "Yes, you get Lifetime Access with Future Updates."
+                    },
+                    {
+                        "question": "Will I learn AI tools in this course?",
+                        "answer": "Yes, the course covers AI tools for Content, Ads, Landing Pages, and more."
+                    }
+                ]
+            }
         }
     ]
 }
