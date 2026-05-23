@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zxx">
 
 
@@ -933,42 +933,42 @@
 
                     <div class="contact1-input-wrapper">
                         <!-- <h3 class="title">Enquiry Form</h3> -->
-                        <form action="#!">
+                        <form id="contact-form" action="#!">
                             <div class="contact1-input">
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="contact1-input-area">
                                             <label class="form-label">Your Name *</label>
-                                            <input type="text" class="form-control" placeholder="Your Name">
+                                            <input type="text" class="form-control" name="name" placeholder="Your Name" required>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="contact1-input-area">
                                             <label class="form-label">Your Email *</label>
-                                            <input type="text" class="form-control" placeholder="Your Email">
+                                            <input type="email" class="form-control" name="email" placeholder="Your Email" required>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="contact1-input-area">
                                             <label class="form-label">Phone *</label>
-                                            <input type="text" class="form-control" placeholder="Phone Number">
+                                            <input type="tel" class="form-control" name="tel" placeholder="Phone Number" required>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="contact1-input-area">
                                             <label class="form-label">Subject</label>
-                                            <input type="text" class="form-control" placeholder="Subject">
+                                            <input type="text" class="form-control" name="subject" placeholder="Subject">
                                         </div>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="contact1-input-area">
                                             <label class="form-label">Message *</label>
-                                            <textarea class="form-control" rows="5"
-                                                placeholder="Write a message here ..."></textarea>
+                                            <textarea class="form-control" name="message" rows="5"
+                                                placeholder="Write a message here ..." required></textarea>
                                         </div>
                                     </div>
                                     <div class="contact1-input-btn-wrapper">
-                                        <button class="theme-btn style1">Send Message <i
+                                        <button type="submit" class="theme-btn style1" id="submit-btn">Send Message <i
                                                 class="fa-regular fa-arrow-right"></i></button>
                                     </div>
                                 </div>
@@ -1434,6 +1434,9 @@
     <!--===== Main.js =====-->
     <script src="assets/js/main.js"></script>
 
+    <!--===== EmailJS =====-->
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+    <script src="assets/js/emailjs-config.js"></script>
 </body>
 
 
